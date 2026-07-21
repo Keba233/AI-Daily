@@ -173,4 +173,5 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"[启动] 数据采集出错: {e}，将在访问时重试\n")
 
-    app.run(debug=False, host="0.0.0.0", port=5000)
+    port = int(os.environ.get("PORT", 5000))
+    app.run(debug=False, host="0.0.0.0", port=port)
