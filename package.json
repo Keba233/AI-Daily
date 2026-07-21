@@ -1,0 +1,13 @@
+{
+  "name": "ai-daily",
+  "version": "1.0.0",
+  "description": "AI Daily - AI 资讯聚合网站",
+  "main": "app.py",
+  "scripts": {
+    "start": "python app.py"
+  },
+  "dependencies": {},
+  "keywords": ["ai", "rss", "news"],
+  "author": "",
+  "license": "MIT"
+}

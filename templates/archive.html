@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+
+{% block title %}AI日报 - 历史归档{% endblock %}
+
+{% block content %}
+<div class="max-w-3xl mx-auto">
+    <div class="mb-8">
+        <h1 class="text-2xl font-bold text-gray-900 mb-2">历史归档</h1>
+        <p class="text-gray-500">按日期回溯往期AI日报</p>
+    </div>
+
+    {% if available_dates %}
+    <div class="space-y-3">
+        {% for date in available_dates %}
+        <a href="/?date={{ date }}" class="block bg-white rounded-xl p-5 shadow-sm border border-gray-100 card-hover">
+            <div class="flex items-center justify-between">
+                <div class="flex items-center space-x-4">
+                    <div class="w-12 h-12 bg-blue-50 rounded-lg flex flex-col items-center justify-center">
+                        <span class="text-xs text-blue-400 font-medium">{{ date[5:7] }}月</span>
+                        <span class="text-lg font-bold text-blue-600">{{ date[8:10] }}</span>
+                    </div>
+                    <div>
+                        <h3 class="font-semibold text-gray-900">{{ date }}</h3>
+                        <p class="text-sm text-gray-400">{{ date[:4] }}年{{ date[5:7] }}月{{ date[8:10] }}日</p>
+                    </div>
+                </div>
+                <svg class="w-5 h-5 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+                </svg>
+            </div>
+        </a>
+        {% endfor %}
+    </div>
+    {% else %}
+    <div class="text-center py-16">
+        <svg class="w-16 h-16 text-gray-300 mx-auto mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/>
+        </svg>
+        <p class="text-gray-400 text-lg mb-2">暂无历史数据</p>
+        <p class="text-gray-300 text-sm">访问首页并刷新数据后，历史归档将自动生成</p>
+    </div>
+    {% endif %}
+</div>
+{% endblock %}

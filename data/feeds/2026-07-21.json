@@ -1,0 +1,2717 @@
+{
+  "date": "2026-07-21",
+  "updated_at": "2026-07-21T14:54:34.701084",
+  "count": 271,
+  "articles": [
+    {
+      "title": "阿里千问发布 Qwen-Image-3.0",
+      "link": "https://36kr.com/newsflashes/3905041899243398?f=rss",
+      "summary": "36氪获悉，阿里千问大模型正式推出Qwen-Image-3.0，Qwen-Image 系列的第三代图像生成基础模型。新模型支持最大4.5k token输入，支持10px小字精准渲染，支持12国语言原生渲染。",
+      "published": "2026-07-21T14:54:02+08:00",
+      "source": "36氪",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "月之暗面黄震昕：B端收入中API调用占比达70%，已形成可持续的正向循环",
+      "link": "https://36kr.com/newsflashes/3905023017256583?f=rss",
+      "summary": "今日，月之暗面（Moonshot AI）B端企业业务负责人黄震昕透露，公司即将上线Kimi Hosted Agent平台，面向ToB客户开放沙箱与Harness能力，打造标准化的企业级能力输出接口。据介绍，该平台提供PPT生成、投研系统搭建等标准化API，支持客户自定义输出风格，可直接嵌入企业内部办公系统使用。他还表示，当前B端收入中，API调用业务占比达到70%，整体商业化路径清晰，已形成可持续的正向循环。 （财联社）",
+      "published": "2026-07-21T14:34:50+08:00",
+      "source": "36氪",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "机构：供给增速将领先需求成长，2H27 NAND Flash紧缺压力有望缓解",
+      "link": "https://36kr.com/newsflashes/3905020308227720?f=rss",
+      "summary": "36氪获悉，根据TrendForce集邦咨询最新2026年7月NAND Flash每月数据分析，2026年AI需求爆发，加上NAND Flash产能增加有限，市场呈现供给紧缺。展望2027年，来自Server的需求持续强劲，在供应商提升制程、整体供给位元增速未见放缓，以及消费性电子市况仍处于低迷的情况下，预估NAND Flash供应紧张的情形有望于2027年下半年获得改善。",
+      "published": "2026-07-21T14:32:04+08:00",
+      "source": "36氪",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "侨银股份、润建股份在广州成立合资公司，注册资本1000万",
+      "link": "https://36kr.com/newsflashes/3904998885132169?f=rss",
+      "summary": "36氪获悉，天眼查App显示，近日，拓肯（广东）技术服务有限公司成立，法定代表人为韩霜铭，注册资本1000万人民币，经营范围包括人工智能硬件销售、人工智能行业应用系统集成服务等。股东信息显示，该公司由侨银股份、润建股份共同持股。",
+      "published": "2026-07-21T14:10:17+08:00",
+      "source": "36氪",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "机构：今年全球芯片设备销售额有望增长23.2%，到2028年达到2295亿美元",
+      "link": "https://36kr.com/newsflashes/3904958991091584?f=rss",
+      "summary": "周二公布的一份行业报告显示，受人工智能（AI）基础设施投资增加的推动，全球半导体制造设备市场预计将在2028年达到历史最高水平。根据全球半导体行业协会（SEMI）发布的报告，2026年全球半导体设备销售额预计将增长23.2%，达到1659亿美元，到2028年将创下历史新高，达到2295亿美元。SEMI代表全球约3000家电子设计和制造企业。（新浪财经）",
+      "published": "2026-07-21T13:29:42+08:00",
+      "source": "36氪",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Momenta Robotaxi获得深圳市智能网联汽车道路测试许可",
+      "link": "https://36kr.com/newsflashes/3904946882381704?f=rss",
+      "summary": "36氪获悉，近日，Momenta Robotaxi正式获得深圳市智能网联汽车道路测试许可，并将开展实地测试。目前，Momenta Robotaxi已陆续于上海、苏州、无锡、深圳及德国慕尼黑、阿联酋阿布扎比等城市落地测试。",
+      "published": "2026-07-21T13:17:23+08:00",
+      "source": "36氪",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "具识智能发布全球首个具身语义智能体系统",
+      "link": "https://36kr.com/newsflashes/3904943542617993?f=rss",
+      "summary": "36氪获悉，具识智能正式发布全球首个具身语义智能体系统insightOS Semantic，同步发布具识开发者生态社区与开发者培育计划。目前，insightOS Semantic已在售货仓取货配送、拆码垛搬运、多机协同流水线、定时巡检等多个真实物理世界作业场景完成验证。",
+      "published": "2026-07-21T13:13:59+08:00",
+      "source": "36氪",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "智谱午后涨超30%",
+      "link": "https://36kr.com/newsflashes/3904938601973633?f=rss",
+      "summary": "36氪获悉，港股大模型概念股智谱午后涨超30%，公司落地1GW国产算力中心，同步完成对中科加禾的收购。",
+      "published": "2026-07-21T13:08:57+08:00",
+      "source": "36氪",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "阿里Qoder上线全新安全能力，为每位用户配备一位专属安全工程师",
+      "link": "https://www.leiphone.com/category/industrynews/RroRZUc1aQ07ne9O.html",
+      "summary": "7月21日，阿里Qoder上线全新安全能力Qoder Security，和传统扫描工具靠规则匹配已知模式不同，该安全能力可在Qoder生成代码时同步开展安全检查，发现问题后自动修复，并在下一轮扫描中闭环，覆盖「发现、修复、再次验证」的全链路，相当于为每一位用户配备一位专属安全工程师，可满足企业级场景对安全的需求。&nbsp;&nbsp;根据数据统计显示，全球超过40%的新代码由AI辅助生成，这些AI生成的代码出现漏洞的概率要高于人工代码，但企业的安全审查能力并未同步提升。因此安全不能依赖人的自律与模型的自觉，必须内建于Agent的运行框架。&nbsp;Qoder将“静态扫描”升级为“主动式安全",
+      "published": "2026-07-21T12:41:00+08:00",
+      "source": "雷峰网",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "国民IP碰撞：金山世游如何用《鹅鸭杀》重塑“西游”叙事？",
+      "link": "https://www.leiphone.com/category/industrynews/3DUUOO6G1dCdwV3u.html",
+      "summary": "今年暑期，央视86版《西游记》再次在电视荧幕上映，这个暑假，爆火的还有基于西游记主题的真人即兴直播二创《西游群英荟》。短视频平台上的经典片段、角色模仿和二次创作持续活跃，在游戏、直播等内容场景中，也不断出现围绕西游人物和故事展开的新表达。一部诞生于数十年前的电视剧，为什么仍然能够反复成为大众话题？答案或许不只在于“经典永不过时”，还在于经典IP与用户建立连接的方式正在改变。过去，一部优秀作品往往能够依靠电视播出、院线发行或出版传播，形成广泛而持久的社会影响力。今天，用户获取内容的渠道更加分散，表达和参与内容的意愿也更加强烈。经典IP如果只停留在原有作品中，或许仍然能够被记住，却很难持续进入新的",
+      "published": "2026-07-21T11:02:00+08:00",
+      "source": "雷峰网",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "无问芯穹夏立雪：企业遇到Token「刺客」，让我们决定「开店、建中心」｜WAIC 2026",
+      "link": "https://www.leiphone.com/category/industrynews/O4z1YxdXtRVscE16.html",
+      "summary": "作者｜包永刚编辑｜林觉民三年前&quot;百模大战&quot;时，一边是英伟达GPU一卡难求、价格一路水涨船高，另一边却是许多国产AI芯片很难被大模型公司充分利用。看到AI产业巨大的想象力，也看到国产算力没有被充分释放的商业价值，夏立雪意识到，团队过去十多年的技术积累终于迎来了产业机会。在导师汪玉的鼓励下，他与一群同样来自清华大学电子工程系的师兄弟共同创立无问芯穹，目标是成为打通M个模型和N款芯片的新技术范式平台，让每一块芯片都能发挥最大的商业价值。“凭借多年的经验，创业之初我们就不只看训练需求。我们预判模型很快会进入大规模应用阶段，于是先从异构训练切入，同时积累面向大规模推理的基础设施能力。",
+      "published": "2026-07-21T10:39:00+08:00",
+      "source": "雷峰网",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "上市前夜 | 一季度净利是去年全年近三倍，深圳存储公司再闯港股IPO",
+      "link": "https://36kr.com/p/3904785488136070?f=rss",
+      "summary": "本文约3100字，建议阅读7分钟\n  作者&nbsp;|&nbsp;彭孝秋\n  \n   编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第五期——芯天下。\n  \n  7月9日，深圳存储芯片设计公司「芯天下」再次递表港交所。事实上，芯天下早在今年1月9日就递交过招股书，但6个月后失效。此次IPO由广发证券、中信证券联席保荐。\n  芯天下是谁？一家2014年成立于深圳的无晶圆厂（Fabless）存储芯片公司，主打代码型闪存芯片，即NOR Flash和SLC NAND Flash，这类芯片专门存储设备启动和运行的代码，放进路由器、扫",
+      "published": "2026-07-21T10:33:43+08:00",
+      "source": "36氪",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "智算云启 万象新生丨上海仪电“新一代智算云产业技术创新论坛”亮相2026世界人工智能大会",
+      "link": "https://www.leiphone.com/category/industrynews/SlL2l0cko5NhoDML.html",
+      "summary": "7月19日，上海仪电（集团）有限公司、互联网体系结构全国重点实验室在2026世界人工智能大会联合主办“新一代智算云产业技术创新论坛”。论坛现场集中发布四项智算领域重磅成果，覆盖产业、科研、教育、国资数字化等多个领域，全方位呈现智算云产业的前沿思考与实践成果。论坛特邀中国工程院院士、互联网体系结构全国重点实验室上海智算分室专家委员会主任郑纬民作主题报告，共同开启智算产业新篇章。上海市人民政府副秘书长张英，市教育委员会副主任、一级巡视员王浩，市经济信息化工作党委委员、市经济信息化委副主任潘焱，上海仪电党委书记、董事长毛辰，上海仪电党委副书记、总裁张建明等领导出席论坛。四项重磅成果集中发布，提供标杆",
+      "published": "2026-07-21T10:14:00+08:00",
+      "source": "雷峰网",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "6000万用户的情感陪伴APP，营收数亿后做了款家庭机器人｜产品观察",
+      "link": "https://36kr.com/p/3904049563731849?f=rss",
+      "summary": "作者&nbsp;|&nbsp;黄楠\n  编���&nbsp;|&nbsp;袁斯来\n  在旗下App每年创造数亿元营收、日均百万用户打开量的时候，心言集团创始人兼CEO任永亮做了一个令所有人都觉得“不理性”的决定：把AI情感陪伴能力塞进一个硬件的模具里——造机器人。\n  心言集团最有名的产品叫测测，来自上一个互联网时代，2013年上线，主要为用户提供泛心理科普及测评、在线情感陪伴，拿过腾讯的B轮融资。到2025年，测测已经有6000多万用户。\n  但仅仅靠一款12年的线上情感陪伴产品，显然无法在这个AI时代更进一步。任永亮察觉到线上交互模式存在不可弥补的能力边界。\n  屏幕对话是单向、割裂的沟通",
+      "published": "2026-07-21T09:30:00+08:00",
+      "source": "36氪",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "速腾聚创第二代全固态感知平台发布，要做物理AI数据入口｜最前线",
+      "link": "https://36kr.com/p/3903885834028931?f=rss",
+      "summary": "&nbsp;作者｜黄楠\n  编辑｜袁斯来\n  当下具身智能赛道正完成一轮关键转型。此前行业大量研发、展示集中在人形、四足机器人舞台演示，如今产业评判标准落地到工厂、园区、家庭等真实场景的长期稳定作业能力。\n  但一个现实的问题是：多数基础模型仅依托二维图像、仿真虚拟数据训练，缺少真实三维空间里物体距离、材质、受力、动态交互的原生高精度信息，以至于机器人只能看懂画面，却难以真正理解物理世界的运行规律。\n  单纯视觉传感器易受强光、遮挡、雨雪干扰，测距与空间结构测算存在天然误差；仿真环境构建的物理规则和现实工况差距巨大，直接导致机器人走出展厅后，复杂抓取、长时序巡检等任务成功率走低，始终难以规模化",
+      "published": "2026-07-21T09:05:00+08:00",
+      "source": "36氪",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "OpenAI高管炮轰Kimi K3：中国开源是减速主义，会抑制资本投入；腾讯拟超100亿，收购以色列休闲手游厂商；DeepSeek被曝高薪资配套打分机制",
+      "link": "https://www.leiphone.com/category/zaobao/QH5u0DdBWdEuwwbG.html",
+      "summary": "要闻提示1.OpenAI高管炮轰Kimi K3：中国开源是减速主义，会抑制资本投入2.传腾讯拟超100亿，收购以色列休闲手游厂商3.天价实习引发薪资倒挂？DeepSeek被曝高薪资配套老员工打分机制4.标配3元、本科8元、硕士15元？美团客服回应网传按骑手学历收配送费5.小鹏汽车AI Infra负责人陆思渊将离职，下一站是OpenAI6.重磅，理想汽车成立芯片公司！7.马斯克：特斯拉FSD会模仿你的驾驶风格，越开越像自己开8.苹果砍掉 Mac Pro 前，曾秘密开发全新英特尔机型、M2 Extreme/M3 Extreme 芯片今日头条OpenAI高管炮轰Kimi K3：中国开源是减速主义，会",
+      "published": "2026-07-21T08:41:00+08:00",
+      "source": "雷峰网",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "「月泉仿生」获数亿元融资，仿生拉压体灵巧手万台量产、订单过亿｜36氪首发",
+      "link": "https://36kr.com/p/3899174356387718?f=rss",
+      "summary": "文｜胡香赟\n  编辑｜海若镜\n  36氪独家获悉，近日，月泉仿生已完成数亿元Pre-A+轮融资。本轮融资由长发基金、华控基金、华夏基金、国力民生、星科创投基金等联合投资，老股东中��村启航投资跟投。\n  据介绍，本轮募集资金将用于月泉仿生团队建设、核心产品技术研发及产能提升，以及强化全栈自研能力、打造完整技术体系，推动超仿生神经骨骼肌肉机器人研发, &nbsp;打造“大脑-身体-环境”一体化的仿生具身智能体系。\n  当前，人形机器人赛道已走过最初的样机展示阶段，逐渐迈入商业化落地的关键拐点。而灵巧手作为机器人和现实世界交互的核心部件，更是成为资本重点押注的核心方向。仅今年一季度，国内灵巧手类企",
+      "published": "2026-07-21T08:00:00+08:00",
+      "source": "36氪",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "8点1氪丨美国将对加拿大部分产品加征50%关税；任泽平回应会员炒股亏损千万；韩国今年人均GDP有望达3.9万美元",
+      "link": "https://36kr.com/p/3904632333862535?f=rss",
+      "summary": "今日热点导览\n  光电融合芯片有望让Token成本降50%\n  泡泡玛特创始人王宁与投资人段永平纽约会面\n  阿根廷队背对领奖台无视对手领奖，拒绝接受采访，恐遭处罚\n  京沪高铁、京沪铁路可提前60天预约购票\n  强一股份大跌：分手费近60亿\n  TOP3大新闻\n  美国宣布对加拿大部分产品加征50%关税\n  当地时间7月20日，白宫发布公告称，美国将对加拿大部分产品额外加征50%的从价关税，以应对“加拿大在汽车及汽车零部件贸易方面对美国采取的歧视性措施”。据称，新关税将自美东时间8月19日凌晨00时01分起生效，并将在现有相关关税、税费及其他收费基础上叠加征收。（央视新闻）\n  任泽平回应会",
+      "published": "2026-07-21T07:59:54+08:00",
+      "source": "36氪",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "YouTube 明确打击 AI 垃圾内容，三类视频将不能变现",
+      "link": "https://www.ithome.com/0/979/525.htm",
+      "summary": "IT之家 7 月 21 日消息，据科技媒体 TechCrunch 昨天报道，YouTube 已经于 7 月 16 日更新平台政策，进一步打击 AI 垃圾（AI Slop）内容。最新政策明确指出，“非真实内容”大类下的三种视频将无法变现。据报道，YouTube 已在此前针对 AI 内容制定相关政策。本次更新并非推出全新规则，而是在现有政策基础上进行细化区分。全新“非真实内容”将细分为三大类：第一类是通用、重复的模板化内容；第二类是令人反感或令人痛苦的内容；第三类则是使用 AI 虚拟人物讨论健康、金融等敏感话题的内容。在官方的定义下，重复类内容是借助 AI、计算机生成图像（IT之家注：CG）制作的",
+      "published": "2026-07-21T06:46:41+00:00",
+      "source": "IT之家",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "OpenAI：若青少年因使用 ChatGPT 网暴他人而被封号，系统将告知家长",
+      "link": "https://www.ithome.com/0/979/520.htm",
+      "summary": "IT之家 7 月 21 日消息，据外媒 Engadget 当地时间 18 日报道，OpenAI 将进一步扩大 ChatGPT 家长通知功能。若青少年因违反暴力威胁或网络暴力行为政策而被封号，已完成账号关联的父母和监护人将收到提醒。OpenAI 去年推出家长控制功能，允许父母关联未成年子女的 ChatGPT 账号，设定禁用时段、减少敏感内容，并在系统发现子女可能有自残倾向时收到警示。通知范围扩大后，系统发现青少年可能危害他人时，也会提醒家长。OpenAI 公布的界面示例显示，家长会先收到一则有关子女账号“重要更新”的通知。点击“了解更多”后，页面将说明账号因违反“暴力行为”使用政策而被停用。新功",
+      "published": "2026-07-21T06:40:54+00:00",
+      "source": "IT之家",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "飞傲雪漫天 Echo Nano 播放器新增“风信紫”版本：可作小尾巴解码耳放，299 元",
+      "link": "https://www.ithome.com/0/979/516.htm",
+      "summary": "IT之家 7 月 21 日消息，飞傲（Fiio）现已为旗下子品牌雪漫天（Snowsky）Echo Nano 超紧凑型数字音频播放器新增“风信紫”配色版本，定价为 299 元。京东飞傲 Echo Nano 风信紫配色 299 元直达链接IT之家获悉，该机采用全铝合金材质，仅重 33.5 克，机身提供 0.91 英寸 OLED 彩屏，顶部配备实体滚轮和按键，背部可加装背夹，同时支持挂绳佩戴。该机搭载 CS43131 芯片，支持 DSD / FLAC / APE / WAV 等格式，最高支持 192kHz/24bit 音质。其 3.5mm 单端耳机接口提供 120mW×2 推力，信噪比 127dB，",
+      "published": "2026-07-21T06:35:41+00:00",
+      "source": "IT之家",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "AI 浪潮推动全球半导体需求，韩国 7 月前 20 天出口额同比增 62.9% 创新高",
+      "link": "https://www.ithome.com/0/979/497.htm",
+      "summary": "IT之家 7 月 21 日消息，彭博社今天（7 月 21 日）发布博文，报道称基于韩国海关公布的最新数据，AI 浪潮推动全球半导体需求增长，7 月前 20 天（已调整工作日差异）出口额同比增长 62.9%，刷新历年 7 年韩国出口额纪录。IT之家曾于 7 月 1 日报道，韩国 6 月出口额达到 1022.5 亿美元（IT之家注：现汇率约合 6949.42 亿元人民币），同比增长 70.9%；韩国 6 月前 20 天出口额增长 49.7%。未经工作日差异调整的基础数据上，出口增长了 52.3%，进口增长了 20%，贸易顺差达到 122 亿美元。彭博社指出全球持续投资 AI 和数据中心建设，推动韩",
+      "published": "2026-07-21T06:20:04+00:00",
+      "source": "IT之家",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Sakana AI 推出网络安全模型 Fugu Cyber：领域基准测试表现优于 GPT-5.5-Cyber",
+      "link": "https://www.ithome.com/0/979/495.htm",
+      "summary": "IT之家 7 月 21 日消息，日本人工智能初创企业 Sakana AI 当地时间今日发布了其专为应对现代网络防御的复杂性而打造的 Fugu Cyber 模型。这一模型在业界最具挑战性的安全基准测试中均取得了卓越的性能：CyberGym 成功率达 86.9%、CTI-REALM 测试成功率达 72.1%，表现甚至优于 OpenAI GPT-5.5-Cyber 和 Anthropic Claude Mythos-Preview。与标准 Fugu 类似，Fugu Cyber 是一个封装为单一 API 的多智能体系统，系统可针对用户请求动态编排专业智能体以处理复杂的多步骤任务。除简单的 API 外，",
+      "published": "2026-07-21T06:19:53+00:00",
+      "source": "IT之家",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "定位全地形硬核 SUV，吉利银河战舰 700 首秀定档 7 月 24 日",
+      "link": "https://www.ithome.com/0/979/461.htm",
+      "summary": "IT之家 7 月 21 日消息，今天（21 日）上午，吉利银河宣布，旗下全新“全地形硬核 SUV”银河战舰 700 将于 7 月 24 日迎来全球首秀。与此同时，官方公布了新一批预告图。根据吉利银河此前公布的信息，银河战舰 700 是一款被定义为“AI 全地形硬核 SUV”的中大型 SUV，计划于 2026 年内正式上市。新车将搭载三电机四驱插电式混合动力系统，并配备差速锁，系统综合功率达到 830 千瓦（约 1128.8 马力），推重比高达 392 马力 / 吨。在越野性能方面，该车搭载了吉利自研的 GVMC 动态控制系统，官方宣称可支持车辆以 80 公里 / 小时的速度通过麋鹿测试。其 A",
+      "published": "2026-07-21T05:45:30+00:00",
+      "source": "IT之家",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "用字节 Seedance 2.0 生成，《第九区》导演发布其首部 AI 短片《阴兵》",
+      "link": "https://www.ithome.com/0/979/459.htm",
+      "summary": "IT之家 7 月 21 日消息，科技媒体 The Decoder 今天（7 月 21 日）发布博文，报道称曾执导《第九区》的导演尼尔 · 布洛姆坎普（Neill Blomkamp）发布其首部 AI 短片《阴兵》（Nightborne）。 该短片时长约为 13 分钟，完全由 AI 生成，使用字节跳动的 Seedance 2.0 模型生成，布洛姆坎普通过文本提示逐帧执导。IT之家查询公开资料，南非导演尼尔 · &nbsp;布洛姆坎普（Neill Blomkamp）以其标志性的纪录片风格与硬核科幻设定在影迷中备受瞩目。在豆瓣平台上，他最受好评的作品是处女作《第九区》（豆瓣评分 8.4）。《Night",
+      "published": "2026-07-21T05:33:35+00:00",
+      "source": "IT之家",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Momenta Robotaxi 获深圳智能网联汽车道路测试许可",
+      "link": "https://www.ithome.com/0/979/458.htm",
+      "summary": "IT之家 7 月 21 日消息，智能驾驶公司 Momenta 今日宣布，其 Robotaxi 已正式获得深圳市智能网联汽车道路测试许可，并将于近期在深圳开展实地测试。至此，深圳成为 Momenta Robotaxi 在中国境内继上海、苏州、无锡之后落地的又一核心城市。从全球布局来看，Momenta Robotaxi 的测试与运营网络已覆盖多个国内外城市。国内方面，继上海、苏州之后，公司于 2026 年 1 月正式获得无锡市智能网联汽车道路测试与示范应用许可并启动测试。海外方面，Momenta 已在德国慕尼黑、阿联酋阿布扎比等城市落地，并积极拓展欧洲其他地区、新加坡及日本等市场。在国际化生态合作",
+      "published": "2026-07-21T05:18:29+00:00",
+      "source": "IT之家",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "小米平板 9 通过 3C 认证：9720mAh 大电池 + 45W 快充头，骁龙 8 系处理器",
+      "link": "https://www.ithome.com/0/979/455.htm",
+      "summary": "IT之家 7 月 21 日消息，小米有一款型号为 M656BA 的平板电脑于 7 月 17 日通过国家 3C 认证，@数码闲聊站 称其为小米平板 9。这款平板电脑由西安比亚迪电子有限公司集贤分公司代工，标配 45W 快充头（数码闲聊站称其 55W，疑似笔误）。另外，此前泄露的代码显示该机采用了 9720mAh 大电池，搭载高通骁龙 8s Gen4 处理器。小米平板 9/Pro 预计将与小米 18 系列新机一同发布，敬请期待。IT之家后续将保持关注。相关阅读：《小米平板 9 标准版曝光：高通骁龙 8s Gen4 芯片，9720mAh 电池》",
+      "published": "2026-07-21T04:38:57+00:00",
+      "source": "IT之家",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "小鹏集团发布 TuringViT，宣称重构视觉大模型训练范式",
+      "link": "https://www.ithome.com/0/979/451.htm",
+      "summary": "IT之家 7 月 21 日消息，小鹏集团今日发布 TuringViT 高效视觉编码器，面向 VLM / VLA 时代系统性重构视觉编码器的架构设计、数据范式与训练流程。小鹏集团表示，TuringViT 将全面支撑智能驾驶、智能座舱、IRON 人形机器人三大业务场景，同时为行业提供了一条可复现、低成本训练 SOTA 级（State-of-the-Art，最新技术水平）视觉 Transformer 的技术路径，推动先进视觉大模型从“头部团队专属”走向“行业普惠”。▲ TuringViT 的块架构和模型配置据介绍，TuringViT 从架构、数据、训练三个维度同步突破，打造了“线性注意力主导 + 高",
+      "published": "2026-07-21T04:23:59+00:00",
+      "source": "IT之家",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Lansweeper 报告称 Win10 平均活跃漏洞数比 Win11 多 191.87%",
+      "link": "https://www.ithome.com/0/979/447.htm",
+      "summary": "IT之家 7 月 21 日消息，网络安全公司 Lansweeper 于 7 月 14 日发布研究报告，指出在一台典型 Windows 10 设备上，平均存在 1903 个活跃 CVE 安全漏洞，比 Windows 11 典型设备（652 个）多 191.87%。Windows 10 设备中的漏洞有 66.6% 被评为高危或严重，且有证据表明已经有黑客利用这些漏洞发起攻击。报告指出截至 2026 年年中，Windows 11 的系统占比约为 78.8%，而 Windows 10 系统占比为 16.9%，意味着全球每 6 台 Windows PC 中，就有 1 台依然停留在 Windows 10 ",
+      "published": "2026-07-21T03:58:33+00:00",
+      "source": "IT之家",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+      "link": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+      "summary": "Comments",
+      "published": "2026-07-21T03:56:03+00:00",
+      "source": "Hacker News",
+      "source_category": "技术社区",
+      "lang": "en",
+      "heat_score": 1.5
+    },
+    {
+      "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
+      "link": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
+      "summary": "Comments",
+      "published": "2026-07-21T03:52:05+00:00",
+      "source": "Hacker News",
+      "source_category": "技术社区",
+      "lang": "en",
+      "heat_score": 1.5
+    },
+    {
+      "title": "CuspAI 推出“AI 材料工厂”计划，NVIDIA、Meta、三星均为创始成员",
+      "link": "https://www.ithome.com/0/979/446.htm",
+      "summary": "IT之家 7 月 21 日消息，英国人工智能新材料发现初创企业 CuspAI 当地时间 20 日宣布推出 \"AI Materials Foundry\" 计划。该计划汇集了全球材料科技能力网络，构建了由单一智能体协调的平台。CuspAI 表示，半导体、清洁能源、先进制造等行业都面临制约技术进步的材料瓶颈，AI Materials Foundry 生态系统旨在加速新材料的发现、合成进程，而在这其中该企业的 MIRA 平台起到枢纽作用。AI Materials Foundry 创始合伙人包括 3M、AMD、应用材料、ASMPT、富士胶片、固特异、汉高、日立、现代汽车、JSR、铠侠、泛林、默克、Met",
+      "published": "2026-07-21T03:48:28+00:00",
+      "source": "IT之家",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "腾讯混元发布科学发现智能体 Hyra，能够递归自我改进",
+      "link": "https://www.ithome.com/0/979/440.htm",
+      "summary": "IT之家 7 月 21 日消息，腾讯混元今日推出 Hyra-1.0，这是 Hyra（Hunyuan Research Agent）的首个版本：一个能够递归自我改进、专为性能导向的研究与工程任务打造的智能体。腾讯表示，除了公开基准，它还能在产品系统里，在真实的 AI 研发流水线上，在自然科学研究乃至工业场景里学习和进化。过去一年，递归自我改进（RSI）与自动化研究成为 AI 领域最活跃的前沿问题之一。Google DeepMind 的 AlphaEvolve 只用 48 次标量乘法就完成了 4×4 复数矩阵相乘。Together AI 让一群智能体在开放环境中协作，把 11 维 kissing ",
+      "published": "2026-07-21T03:43:22+00:00",
+      "source": "IT之家",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "早报｜二季度华为手机份额升至23%/广汽本田与本田续签合资协议至2038年/《复仇者联盟5》首曝预告",
+      "link": "https://www.ifanr.com/1672637?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "summary": "· 靳玉志：华为乾崑继续做汽车行业的「电子螺丝钉」\n· 工信部：我国智能算力规模达到 2185 EFLOPS\n· 字节跳动发布 Seed Audio 1.0 音频创作模型#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "published": "2026-07-21T00:54:22+00:00",
+      "source": "爱范儿",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+      "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
+      "published": "2026-07-21T00:12:24+00:00",
+      "source": "TechCrunch AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "乐道L90达成第60,000台交付里程碑",
+      "link": "https://www.leiphone.com/category/industrynews/fB2AlMzYpfnLeVmf.html",
+      "summary": "2026年7月19日，乐道L90正式完成第60,000台交付。于湖州蔚来体验中心，知名极限探险家韩啸成为乐道L90第60,000台用户，同时，蔚来公司湖州区域累计交付同步突破10,000台。乐道L90自开启交付以来，以技术创新推动大三排SUV品类革新，将全球顶尖智能科技带入30万元级市场，真正实现 “6人10箱无压力、座座都是VIP、旗舰智能有神玑”，全面刷新大三排SUV的出行体验上限。同时，得益于长期稳定的价格体系、良好的用户口碑以及稳居销冠的市场表现，乐道L90带动乐道品牌新能源汽车保值率升至81.5%，位居市场主流品牌榜首，为用户提供了覆盖全用车周期的价值保障。凭借稳居30万级纯电大型S",
+      "published": "2026-07-20T23:10:00+08:00",
+      "source": "雷峰网",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "爱诗科技，实时视频模型在杀进互娱赛场",
+      "link": "https://www.leiphone.com/category/industrynews/lzZb9yStwJLM2GRz.html",
+      "summary": "Coding 之后，游戏的“GPT 时代”还要多久？&nbsp; &nbsp; 作者丨董子博&nbsp; &nbsp; 编辑丨林觉民&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb",
+      "published": "2026-07-20T22:52:00+08:00",
+      "source": "雷峰网",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "WAIC 观察：通用具身智能要在有生之年实现，急需「物理 AI 基建狂魔」",
+      "link": "https://www.leiphone.com/category/industrynews/0EQFNlP882jwJCi7.html",
+      "summary": "今天的物理 AI，不只比“武功”，更得拼“内力”。&nbsp;&nbsp;作者丨齐铖湧 董子博&nbsp; &nbsp; 编辑丨马晓宁&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n",
+      "published": "2026-07-20T22:48:00+08:00",
+      "source": "雷峰网",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Trump’s latest AI czar has already resigned",
+      "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+      "summary": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
+      "published": "2026-07-20T22:21:04+00:00",
+      "source": "TechCrunch AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "WAIC 2026擎朗具身社区开张：无遥操，纯自主，看得见的具身服务",
+      "link": "https://www.leiphone.com/category/robot/KLjQSQjl9dI1Mzys.html",
+      "summary": "7月17日至20日，2026世界人工智能大会暨人工智能全球治理高级别会议（WAIC 2026）在上海举办。本届大会以&nbsp;“智能伙伴，共创未来”&nbsp;为主题，由国家十部委与上海市政府联合主办，展览总面积首次突破10万平方米，1100余家企业参展。其中，具身智能成为本届大会最受瞩目的板块之一。雷峰网获悉，擎朗智能将在本届展会上，依托自研融合世界模型的VLA（视觉-语言-行动模型）架构，打造覆盖商超零售、咖啡亭、甜品屋及全新酒店洗衣房场景的「具身社区」——全场人形机器人零遥操、纯自主运行，每一个场景均源自真实合作品牌的运营需求。展台上，XMAN系列通用人形机器人与配送、清洁等专用机器人",
+      "published": "2026-07-20T22:21:00+08:00",
+      "source": "雷峰网",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "今年 WAIC 上的具身公司，卷「触觉」卷到了什么地步？",
+      "link": "https://www.leiphone.com/category/robot/YnA6OPLCuwFbyMjk.html",
+      "summary": "&nbsp;触觉的天花板，比想象中更高。&nbsp; &nbsp; 作者丨高景辉&nbsp; &nbsp; 编辑丨马晓宁&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n",
+      "published": "2026-07-20T22:15:00+08:00",
+      "source": "雷峰网",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
+      "published": "2026-07-20T21:21:15+00:00",
+      "source": "TechCrunch AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "AI’s most important protocol is getting a little bit easier to use",
+      "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "summary": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work.",
+      "published": "2026-07-20T20:50:40+00:00",
+      "source": "TechCrunch AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "X relaunches a rebuilt Android app after year-long effort",
+      "link": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+      "summary": "X says the rebuilt version of its Android app is now available globally.",
+      "published": "2026-07-20T19:37:39+00:00",
+      "source": "TechCrunch AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "OpenAI is scared of open-weight models. Should the US be?",
+      "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "summary": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of  turning AI into a business.",
+      "published": "2026-07-20T19:33:25+00:00",
+      "source": "TechCrunch AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "摩尔线程为什么提出「三大AI工厂」？｜WAIC 2026",
+      "link": "https://www.leiphone.com/category/chips/c06JLy3iGPvZEP78.html",
+      "summary": "进入Agent时代，产业竞争正在出现新的变化：AI不再只是一个需要被训练的模型，而正在变成一种需要被持续生产、调用和部署的智能能力。在2026世界人工智能大会（WAIC）期间，摩尔线程创始人、董事长兼CEO张建中提出“三大AI工厂”的概念——模型训练工厂、词元（Token）生产工厂和智能体生产工厂。摩尔线程创始人、董事长兼CEO张建中在摩尔线程的定义中，三大工厂分别对应模型训练、Token生成和智能体生产，覆盖从基础模型研发到产业应用、从云端基础设施到终端设备的完整链路。中国工程院院士、清华大学教授郑纬民在演讲中指出，算力基建的关键在于将每一份算力转化为高质量词元，三大“AI工厂”是算力基础设",
+      "published": "2026-07-20T18:33:00+08:00",
+      "source": "雷峰网",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "氪星晚报｜SpaceX将“星舰”第13次试飞推迟至7月23日；马斯克称特斯拉FSD会模仿驾驶风格；我国人形机器人整机产品超全球半数",
+      "link": "https://36kr.com/p/3903710346790535?f=rss",
+      "summary": "大公司：\n  摩根士丹利成为华尔街AI债务交易头���银行\n  摩根士丹利已崛起为华尔街构建人工智能（AI）繁荣背后融资架构的主导力量，设计了新的债务和股权融资模式，为数据中心的大规模建设输送数百亿美元资金。据业内高管称，自去年以来，该行已成为主导顾问，牵头了规模最大、最具创新性的AI基础设施融资交易。\n  三星电子晶圆代工正评估将美国泰勒厂的初期生产规模扩大至原计划的2倍\n  据报道，三星电子晶圆代工正评估将美国泰勒厂的初期生产规模扩大至原计划的2倍。\n  马斯克称特斯拉FSD会模仿驾驶风格\n  7月20日，埃隆·马斯克已确认特斯拉FSD（Full Self-Driving）软件正在从过去的",
+      "published": "2026-07-20T18:22:28+08:00",
+      "source": "36氪",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
+      "link": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+      "summary": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to Beyonc&#233;'s Say My Name, and Harry Styles' As It Was. The lawsuit, filed in a New York court on ",
+      "published": "2026-07-20T18:19:12-04:00",
+      "source": "The Verge AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Nativ: Run frontier open models locally on your Mac",
+      "link": "https://blaizzy.github.io/nativ/",
+      "summary": "Comments",
+      "published": "2026-07-20T18:16:08+00:00",
+      "source": "Hacker News",
+      "source_category": "技术社区",
+      "lang": "en",
+      "heat_score": 1.5
+    },
+    {
+      "title": "阿里硬核少年技术节5.0开幕，发布AIGX技术体系四项重磅成果",
+      "link": "https://www.leiphone.com/category/industrynews/3iymNQRAMbqR1zxG.html",
+      "summary": "7月20日，横跨阿里巴巴ATH事业群和淘天集团的年度技术活动&quot;硬核少年技术节5.0&quot;在杭州、北京两地同步启动。本届技术节持续一周，涵盖技术展示、学术交流、AI Hackathon竞赛等多种形式。开幕式上，淘天集团公布了AIGX技术体系的四项最新技术成果，包括拍立淘全模态实时Agent、全场景AI创作工作台if Studio、Coupella智惠引擎和Agentic推荐系统Dream。“硬核少年技术节已经连续举办了五届，朝气与匠心是技术节乃至我们整个团队最宝贵的底色。”阿里巴巴ATH技术副总裁、淘天集团首席科学家郑波在技术节开幕式上表示，“今天发布的AIGX技术体系四项最新技",
+      "published": "2026-07-20T18:15:00+08:00",
+      "source": "雷峰网",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Agent swarms and the new model economics",
+      "link": "https://cursor.com/blog/agent-swarm-model-economics",
+      "summary": "Comments",
+      "published": "2026-07-20T18:06:13+00:00",
+      "source": "Hacker News",
+      "source_category": "技术社区",
+      "lang": "en",
+      "heat_score": 1.5
+    },
+    {
+      "title": "WAIC上，AI开始接管人类的欲望",
+      "link": "https://36kr.com/p/3903687507904387?f=rss",
+      "summary": "\n  &nbsp;\n  24.8万的仿生人形机器人，“比彩礼都贵！”\n  \n  &nbsp;\n  撰文&nbsp;|&nbsp;刘思洁\n  编辑 | 张薇\n  在2026年的世界人工智能大会（WAIC）上，大模型、算力与机器人占据着核心展区的宏大叙事。但在场馆地下一层的创新展区里，AI正在撕开含蓄的面具，向下接管人类最隐秘的本能：情欲、控制欲、对失去的遗憾、对孤独的恐惧，以及对未来的迷茫困惑。\n  一只套着塑料壳的蛋形玩偶摆在桌子上，和人交互到一定亲密度后，它会“破壳而出”，一个毛茸茸的桌面宠物就此诞生；一个酷似Labubu的毛绒AI玩具主打亲子陪伴，父母想传递的教育内容，可以借一个AI玩偶的",
+      "published": "2026-07-20T18:06:08+08:00",
+      "source": "36氪",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "OceanBase CTO杨传辉WAIC分享：让数据库从人类友好到Agent友好",
+      "link": "https://www.leiphone.com/category/industrynews/nyoauJTE6FqhBvIB.html",
+      "summary": "“大模型学了全人类的知识，但可能读不懂你公司的一张表。”7月20日，在上海世博中心举行的2026世界人工智能大会（WAIC）“贵州·AI驱动东西部协同发展论坛”上，OceanBase CTO杨传辉点出，这正是当前AI产业化落地的核心痛点。在这场聚焦“东模西数”协同新范式的高级别论坛上，杨传辉以《OceanBase AI数据库支撑东模西数落地探索与实践》为题发表演讲。他指出，数据库必须从“人类操作的工具”进化为“Agent自主消费的智能底座”，并现场介绍了OceanBase在金融、交通等行业的实践探索西部银行与大型航企的实战案例——当西部金融与交通核心系统完成AI化改造，东西部AI产业共振便有了",
+      "published": "2026-07-20T17:24:00+08:00",
+      "source": "雷峰网",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "当AI进入最依赖“人”的行业：一家四线城市康复机构利润增长40%",
+      "link": "https://www.leiphone.com/category/industrynews/9MBI4d1DUSLB4uyZ.html",
+      "summary": "2026年7月，河南平顶山，向日葵康复机构的教室里。一名年轻的康复师正在带一位孤独症孩子做社交训练。&nbsp;在她面前的屏幕上，由国内特需儿童康复领域头部机构大米和小米研发的RICE AI系统，正在同步记录孩子的行为数据、分析干预进展、生成下一阶段的课程建议。&nbsp;这不是未来场景，而是一场正在发生的行业变革。在平顶山、苍南、连云港这样的三四线城市，这套系统已经运行了半年以上。&nbsp;人力缺口百万，行业困在“人的天花板”里&nbsp;特需儿童康复行业长期面临一个结构性问题：人不够。&nbsp;根据教育部公开数据，2023年全国特殊教育在校生91.2万人，专任教师仅7.7万人。若将孤独",
+      "published": "2026-07-20T17:15:00+08:00",
+      "source": "雷峰网",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Kimi Work",
+      "link": "https://www.kimi.com/products/kimi-work",
+      "summary": "Comments",
+      "published": "2026-07-20T17:13:23+00:00",
+      "source": "Hacker News",
+      "source_category": "技术社区",
+      "lang": "en",
+      "heat_score": 1.5
+    },
+    {
+      "title": "SpaceX in your index fund, explained",
+      "link": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
+      "summary": "Index funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on the market as a whole. So what happens when a company like SpaceX - a giant gamble, and, in my opinion, terribly overpriced - is fast-tracked into the Nasdaq-100",
+      "published": "2026-07-20T17:00:00-04:00",
+      "source": "The Verge AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "找店效率提升近70%！腾讯地图×Chinagoods平台联合打造AI导航，陪你逛义乌市场",
+      "link": "https://www.leiphone.com/category/industrynews/CXENSGmfl5oIvBEG.html",
+      "summary": "去过义乌国际商贸城的人，大多都有过一段“找不到路”的经历。800余万平方米的超大市场，8万个商铺通过连廊互通，第一次来的外商拿着样品绕了一下午依旧找不到店；老客商时隔几个月再来，依然免不了打电话、问路、发定位、兜圈子。&nbsp;“找店难、找货难”几乎成了每个来义乌市场的人绕不开的坎。&nbsp;如今，这个困扰正在被改写。腾讯智慧零售、腾讯地图联合Chinagoods平台推出“Chinagoods AI导航”小程序，直接把找商找货两大难题一次性解决。目前服务已覆盖义乌国际商贸城一至五区及全球数贸中心，找店效率直接提升近70%。&nbsp;一位来自沙特的采购商时隔三年再访义乌，实测体验后感叹：“",
+      "published": "2026-07-20T16:38:00+08:00",
+      "source": "雷峰网",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+      "link": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+      "summary": "Comments",
+      "published": "2026-07-20T16:36:36+00:00",
+      "source": "Hacker News",
+      "source_category": "技术社区",
+      "lang": "en",
+      "heat_score": 1.5
+    },
+    {
+      "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
+      "link": "https://news.ycombinator.com/item?id=48981136",
+      "summary": "Comments",
+      "published": "2026-07-20T16:32:10+00:00",
+      "source": "Hacker News",
+      "source_category": "技术社区",
+      "lang": "en",
+      "heat_score": 1.5
+    },
+    {
+      "title": "Adobe camera app’s new feature will critique your photos using AI",
+      "link": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+      "summary": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.",
+      "published": "2026-07-20T15:45:00+00:00",
+      "source": "TechCrunch AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "姚卯青、张正友、徐丹飞等七位大佬同席，这届 WAIC 把具身未来聊透了",
+      "link": "https://www.leiphone.com/category/academic/tpEMqz2SnlQ8fDPI.html",
+      "summary": "机器人的 ChatGPT 时刻何时到来&nbsp; &nbsp; 作者丨张 &nbsp; 璐 邓哲敏&nbsp; &nbsp; 编辑丨齐铖湧&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
+      "published": "2026-07-20T15:33:00+08:00",
+      "source": "雷峰网",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "YouTube clarifies policies around AI slop and upsetting videos",
+      "link": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+      "summary": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.",
+      "published": "2026-07-20T15:23:06+00:00",
+      "source": "TechCrunch AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "不止 Token 工厂，无问芯穹“前店后厂一中心”Agentic Infra 战略布局重磅发布",
+      "link": "https://www.leiphone.com/category/industrynews/Bd9P3BDlfNMuYJ8V.html",
+      "summary": "“计算需求在指数级攀升，今天，仅依靠产能的线性增长去堆叠算力，已经远远无法弥合供需之间持续扩大的缺口。”7 月 20 日，2026 年世界人工智能大会上，无问芯穹联合创始人兼 CEO 夏立雪提出，从 Pre-training（预训练） 到 Post-training（后训练）、从Test-time（推理时扩展） 到 Agentic scaling（智能体扩展），在四条 Scaling Law 的作用下，模型训练和推理的超级市场正在互相孕育。当下的人工智能基础设施（AI Infra）“必须以极致的效率服务更大规模。”基于规模与效率两大锚点，夏立雪从无问芯穹的 AI 生产力公式（AI生产力 = 智",
+      "published": "2026-07-20T15:18:00+08:00",
+      "source": "雷峰网",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "China’s open-weights AI strategy is winning",
+      "link": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+      "summary": "Comments",
+      "published": "2026-07-20T14:21:47+00:00",
+      "source": "Hacker News",
+      "source_category": "技术社区",
+      "lang": "en",
+      "heat_score": 1.5
+    },
+    {
+      "title": "Import AI 465: Open vs closed gaps; Kimi K3; Demis' big policy plan",
+      "link": "https://importai.substack.com/p/import-ai-465-open-vs-closed-gaps",
+      "summary": "The singularity will be seen in hindsight as an interregnum",
+      "published": "2026-07-20T12:31:45+00:00",
+      "source": "Import AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "SoulAgent亮相WAIC 2026：智能参会重塑前沿知识传播范式",
+      "link": "https://www.leiphone.com/category/ai/sGKmP6Yn5e2z0bCg.html",
+      "summary": "&nbsp;2026世界人工智能大会暨人工智能全球治理高级别会议（第九届WAIC）以“智能伙伴 共创未来”为主题，于7月17日至20日在上海举办。作为全球人工智能领域规格最高、影响力最大的平台之一，WAIC 2026汇聚了来自全球的顶尖科学家、产业领袖与开发者，共同探讨AI技术前沿与产业落地。期间，AI开放计算与智能体技术生态论坛于7月19日召开，围绕智能体技术生态展开深入讨论。作为智源自研智能体产品，SoulAgent为参会嘉宾、观众与开发者提供了WAIC大会智能参会服务。&nbsp;智能体能力落地：WAIC议程一键可查，SoulAgent在大会现场“活”起来&nbsp;&nbsp;&nbs",
+      "published": "2026-07-20T12:13:00+08:00",
+      "source": "雷峰网",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "赋能全球 AI 创新，GMI Cloud 携AI Cloud、MaaS、Agentbox等全栈智算解决方案重磅亮相 WAIC 2026",
+      "link": "https://www.leiphone.com/category/chips/eKBhxuqA0Qrtet32.html",
+      "summary": "作为全球七大 Reference Platform NVIDIA Cloud Partner 之一，GMI Cloud 携全栈产品矩阵、前沿技术成果及丰富联合生态，在 2026 年世界人工智能大会（WAIC）上通过产品展示、专家分享、跨界联名及直播互动等多元形式，与全球开发者、AI 企业及生态伙伴共探 AI 算力新未来，成为展会焦点之一。&nbsp;在本次大会上，GMI Cloud 集中展示了四大核心产品，为观众打造了沉浸式的 AI 基础设施交互体验。GMI Cloud 作为领先的“AI Native Cloud”，凭借全球布局的自建数据中心，提供基于 GB300、GB200、B200 及 H",
+      "published": "2026-07-20T12:10:00+08:00",
+      "source": "雷峰网",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "中科慧远亮相WAIC2026 跑出工业AI质检落地加速度",
+      "link": "https://www.leiphone.com/category/industrynews/7sl5526XaEyiBUZG.html",
+      "summary": "7月17日—20日，2026世界人工智能大会暨人工智能全球治理高级别会议（WAIC 2026）在上海盛大启幕。作为国内规格最高的国际性AI产业盛会，本届大会汇聚全球顶尖技术成果与产业智慧，成为观察人工智能与实体经济融合深度的核心窗口。在这场全球AI前沿竞技场上，中科慧远视觉技术（洛阳）股份有限公司以“AI重构工业质检，打造缺陷检测全链路生态”为参展主题，携全场景AOI产品矩阵、工业具身质检机器人、QAS质量分析与决策系统三大核心成果集中亮相。这家脱胎于中国科学院自动化研究所、深耕工业外观质检多年的国家级专精特新重点“小巨人”企业，正以“制造积淀+原生AI”的双重底色，走出一条AI技术从实验室走",
+      "published": "2026-07-20T12:03:00+08:00",
+      "source": "雷峰网",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
+      "link": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
+      "summary": "Adobe's experimental camera app has taken an unexpected turn. After Project Indigo was launched last year to provide a \"more natural (SLR-like) look\" for iPhone photography, the Indigo camera app is now being updated with a suite of generative AI tools. And the change doesn't rely upon Adobe's own F",
+      "published": "2026-07-20T12:00:00-04:00",
+      "source": "The Verge AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "苹果国行 AI 刷屏之外，三星也把端侧大脑交给国产 AI",
+      "link": "https://www.ifanr.com/1672593?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "summary": "把智能装进手机的秘诀，在于「多、快、好、省」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "published": "2026-07-20T11:40:22+00:00",
+      "source": "爱范儿",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Who's afraid of Chinese models?",
+      "link": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+      "summary": "Comments",
+      "published": "2026-07-20T11:05:58+00:00",
+      "source": "Hacker News",
+      "source_category": "技术社区",
+      "lang": "en",
+      "heat_score": 1.5
+    },
+    {
+      "title": "WAIC 2026收官｜范式大会亮点集锦，见证AI 2.0从技术突破走向产业实践",
+      "link": "https://www.qbitai.com/2026/07/455963.html",
+      "summary": "",
+      "published": "2026-07-20T10:42:09+00:00",
+      "source": "量子位",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "不同模型厂同一家Agentic Infra，AGI时代的地基终于浮出水面",
+      "link": "https://www.qbitai.com/2026/07/455805.html",
+      "summary": "大模型时代的共同选择",
+      "published": "2026-07-20T10:33:23+00:00",
+      "source": "量子位",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Safety and alignment in an era of long-horizon models",
+      "link": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+      "published": "2026-07-20T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "全球首发技术路线+全域联盟双轮破局，AI for ADANES释放先进核能新质生产力",
+      "link": "https://www.qbitai.com/2026/07/455729.html",
+      "summary": "",
+      "published": "2026-07-20T09:41:49+00:00",
+      "source": "量子位",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "启鸣达人首发《世界模型驱动的教育AGI白皮书》| WAIC 2026",
+      "link": "https://www.qbitai.com/2026/07/455730.html",
+      "summary": "从理论探索到体系构建",
+      "published": "2026-07-20T09:21:30+00:00",
+      "source": "量子位",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "AI语音进入“表演时代”：阿里Qwen-Audio-3.0-TTS登顶全球权威榜单",
+      "link": "https://www.qbitai.com/2026/07/455658.html",
+      "summary": "细粒度标签+ 20 种方言",
+      "published": "2026-07-20T09:05:06+00:00",
+      "source": "量子位",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "WAIC之后，重新理解与爱为舞：一家AI原生企业的学习场景验证",
+      "link": "https://www.qbitai.com/2026/07/455596.html",
+      "summary": "",
+      "published": "2026-07-20T09:03:23+00:00",
+      "source": "量子位",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "GMI Cloud  “无界造物节”在WAIC圆满完赛，“MaaS+创意”赋能 AI 创作新生态！",
+      "link": "https://www.qbitai.com/2026/07/455593.html",
+      "summary": "GMI Cloud × HappyHorse 共建 AI 创作生态",
+      "published": "2026-07-20T08:52:26+00:00",
+      "source": "量子位",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "国家具身智能应用中试基地发布首个合作世界模型 魔芯科技MoWorld 3D正式亮相",
+      "link": "https://www.qbitai.com/2026/07/455517.html",
+      "summary": "",
+      "published": "2026-07-20T08:44:24+00:00",
+      "source": "量子位",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "WAIC之外，一张AI人才图谱正在知乎形成",
+      "link": "https://www.qbitai.com/2026/07/455496.html",
+      "summary": "AI 的竞争，终将回到人的竞争",
+      "published": "2026-07-20T08:06:22+00:00",
+      "source": "量子位",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "实测千问 Qwen3.8 预览版，国产模型开始围攻 Fable 5",
+      "link": "https://www.ifanr.com/1672515?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "summary": "还有 DeepSeek、智谱、MiniMax……#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "published": "2026-07-20T07:31:53+00:00",
+      "source": "爱范儿",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "China delivers a one-two punch to America’s AI dominance",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+      "summary": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction of the cost. The rapid-fire releases suggest America's lead at the AI frontier is increasingly tight,",
+      "published": "2026-07-20T06:16:33-04:00",
+      "source": "The Verge AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+      "link": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+      "summary": "Comments",
+      "published": "2026-07-20T02:51:16+00:00",
+      "source": "Hacker News",
+      "source_category": "技术社区",
+      "lang": "en",
+      "heat_score": 1.5
+    },
+    {
+      "title": "早报｜曝月之暗面最快半年内上市/荣耀Robot Phone开启预约/IDC:2030年全球活跃智能体将超22亿个",
+      "link": "https://www.ifanr.com/1672471?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "summary": "· Meta 与 Anthropic 商谈两年最高 100 亿美元算力租赁\n· 阶跃星辰与上海期智研究院共建智能体前沿研究院\n· 小米解释澎程增程车采用 76kWh 电池：日常尽量不启动增程器#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "published": "2026-07-20T00:17:26+00:00",
+      "source": "爱范儿",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "What to watch for after Jensen Huang’s Japan visit",
+      "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+      "summary": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
+      "published": "2026-07-19T21:16:07+00:00",
+      "source": "TechCrunch AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+      "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public.",
+      "published": "2026-07-19T19:24:45+00:00",
+      "source": "TechCrunch AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+      "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+      "summary": "\"Everybody knows the Greeks are inside.\"",
+      "published": "2026-07-19T14:52:08+00:00",
+      "source": "TechCrunch AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+      "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "summary": "Current AI, a nonprofit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat, and more.",
+      "published": "2026-07-19T14:00:00+00:00",
+      "source": "TechCrunch AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "I hate that I don’t hate this song made with Suno",
+      "link": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
+      "summary": "I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the outputs of Suno. So I'm having a bit of a tough time processing the fact that [&#8230;]",
+      "published": "2026-07-19T13:35:54-04:00",
+      "source": "The Verge AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Kimi: Threat or menace?",
+      "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+      "published": "2026-07-18T18:51:07+00:00",
+      "source": "TechCrunch AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "summary": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that support writers and the arts more broadly. So one might expect",
+      "published": "2026-07-18T16:54:42-04:00",
+      "source": "The Verge AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Controlling Reasoning Effort in LLMs",
+      "link": "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+      "summary": "How LLMs Learn Low-, Medium-, and High-Effort Reasoning Modes",
+      "published": "2026-07-18T11:16:09+00:00",
+      "source": "Ahead of AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "The apps, gadgets, and tools every reader needs",
+      "link": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
+      "summary": "Hi, friends! Welcome to Installer No. 136, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your neighborhood isn't as smoky as mine, and also you can read all the old editions at the Installer homepage.) This week, I've been recording the next season of V",
+      "published": "2026-07-18T08:00:00-04:00",
+      "source": "The Verge AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "iOS 27 公测版上手：国行 AI 准备好了，但系统流畅更值得升级",
+      "link": "https://www.ifanr.com/1672364?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "summary": "有可能成为新一代「钉子户」系统。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "published": "2026-07-18T06:47:24+00:00",
+      "source": "爱范儿",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Neil Rimer thinks the AI money is coming back out",
+      "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
+      "published": "2026-07-18T04:47:25+00:00",
+      "source": "TechCrunch AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "6 台机器人拼长城、首款智能体手机首秀：阶跃把 AI 塞进了现实世界｜WAIC 2026",
+      "link": "https://www.ifanr.com/1672344?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "summary": "大模型的下一站，是走出屏幕，自己动手#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "published": "2026-07-18T04:01:07+00:00",
+      "source": "爱范儿",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "早报｜苹果上调Apple Music价格/小米SU7虚假碰撞测评博主被判一年八个月/努比亚、阶跃星辰智能体手机亮相WAIC",
+      "link": "https://www.ifanr.com/1672338?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "summary": "· 智谱 ARR 被曝达到 10 亿美元，半年增长 15 倍\n· Shopify CEO：反 AI 编程的人严重高估了人类代码质量\n· 影石与荣耀达成影像生态合作，计划年底前进驻 300 家荣耀门店#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "published": "2026-07-18T00:49:59+00:00",
+      "source": "爱范儿",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+      "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+      "summary": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
+      "published": "2026-07-17T22:55:09+00:00",
+      "source": "TechCrunch AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+      "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open-weight AI models for coding.",
+      "published": "2026-07-17T22:12:56+00:00",
+      "source": "TechCrunch AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "The Zoom hack that says, ‘Don’t record me’",
+      "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+      "summary": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?",
+      "published": "2026-07-17T21:20:47+00:00",
+      "source": "TechCrunch AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Agility Robotics plants its flag in Tesla’s backyard",
+      "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+      "summary": "Agility is opening a new training center for its Digit robots in Fremont, California.",
+      "published": "2026-07-17T20:19:49+00:00",
+      "source": "TechCrunch AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "AI-driven memory crunch jolts India’s smartphone market",
+      "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+      "summary": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.",
+      "published": "2026-07-17T20:09:27+00:00",
+      "source": "TechCrunch AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+      "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "summary": "Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI&#8217;s chief hardware officer and claims more than 400 former Apple employees now work at the c",
+      "published": "2026-07-17T17:45:46+00:00",
+      "source": "TechCrunch AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "TikTok is testing an AI likeness detection tool",
+      "link": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+      "summary": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being tested with \"some\" US creators, TikTok US spokesperson Zachary Kizer tells The Verge. YouTube has been ",
+      "published": "2026-07-17T15:34:30-04:00",
+      "source": "The Verge AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Apple’s plot to crush OpenAI",
+      "link": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+      "summary": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Apple really want here, and why is it picking such a public fight with OpenAI? On this episode of The [&#",
+      "published": "2026-07-17T13:41:32-04:00",
+      "source": "The Verge AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "不听劝的阶跃闯进手机战场，造一台为人机共生的终端｜WAIC 2026",
+      "link": "https://www.ifanr.com/1672281?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "summary": "现在是最好的试错时机。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "published": "2026-07-17T11:31:43+00:00",
+      "source": "爱范儿",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "我在 WAIC 暴走两万步，看到了中国 AI 的三件套",
+      "link": "https://www.ifanr.com/1672335?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "summary": "今年开始，可以看一整条链了。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "published": "2026-07-17T10:30:07+00:00",
+      "source": "爱范儿",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "A scorecard for the AI age",
+      "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+      "published": "2026-07-17T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "连夜实测 Kimi K3，建议改名 Kable",
+      "link": "https://www.ifanr.com/1672232?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "summary": "开源模型的 K3 时刻#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "published": "2026-07-17T02:19:00+00:00",
+      "source": "爱范儿",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "早报｜真我暂停产品更新/华为撤回「世界」商标申请/努比亚全球首款AI智能体手机搭载豆包手机助手",
+      "link": "https://www.ifanr.com/1672229?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "summary": "· NotebookLM 更名为 Gemini Notebook\n· 被曝上传完整仓库后，Grok Build 宣布开源\n· 智己回应多地经销商经营异常：将为购车用户兜底#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "published": "2026-07-17T00:22:41+00:00",
+      "source": "爱范儿",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识",
+      "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html",
+      "summary": "这里记录每周值得分享的科技内容，周五发布。...",
+      "published": "2026-07-16T23:51:19+00:00",
+      "source": "阮一峰网络日志",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+      "link": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "summary": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost none of them use today; a",
+      "published": "2026-07-16T19:16:48+00:00",
+      "source": "VentureBeat AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+      "link": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "summary": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped identity, and most agents stil",
+      "published": "2026-07-16T19:02:38+00:00",
+      "source": "VentureBeat AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
+      "link": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+      "summary": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector databases that define th",
+      "published": "2026-07-16T17:06:08+00:00",
+      "source": "VentureBeat AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+      "link": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+      "summary": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty fully trusts automated ev",
+      "published": "2026-07-16T16:40:48+00:00",
+      "source": "VentureBeat AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Why teens deserve access to safe AI",
+      "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+      "published": "2026-07-16T16:00:00+00:00",
+      "source": "OpenAI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Connect more of your apps to Search",
+      "link": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+      "summary": "Connected apps rendering",
+      "published": "2026-07-16T16:00:00+00:00",
+      "source": "Google AI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Create, edit and star in videos with two Google Vids updates",
+      "link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+      "summary": "Text \"Gemini Omni and Personal Avatars in Google Vids\" surrounded by various images",
+      "published": "2026-07-16T16:00:00+00:00",
+      "source": "Google AI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "24.98 万元，新一代理想 L6 上市：51kWh 大电池、旗舰芯片下放，开始补操控这一课",
+      "link": "https://www.ifanr.com/1672196?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "summary": "六边形战士回来了。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "published": "2026-07-16T14:57:46+00:00",
+      "source": "爱范儿",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+      "summary": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lots podcast, Hochul said that her team is using \"AI to analyze every single rule, regulation, [and] po",
+      "published": "2026-07-16T13:58:37-04:00",
+      "source": "The Verge AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "实测灵犀专业版，AI 成为下一代办公入口",
+      "link": "https://www.ifanr.com/1672096?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "summary": "办公 AI，能真交付才算数#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "published": "2026-07-16T13:51:20+00:00",
+      "source": "爱范儿",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Our approach to bioresilience",
+      "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
+      "published": "2026-07-16T09:30:42+00:00",
+      "source": "Google DeepMind",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "How Cars24 scales conversations and builds faster with OpenAI",
+      "link": "https://openai.com/index/cars24",
+      "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+      "published": "2026-07-16T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
+      "link": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+      "summary": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality: most deployed “agents”",
+      "published": "2026-07-15T22:24:17+00:00",
+      "source": "VentureBeat AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "The US is advancing AI safety through state and federal action",
+      "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+      "published": "2026-07-15T12:00:00+00:00",
+      "source": "OpenAI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+      "published": "2026-07-15T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "You only need the frontier model for one single edit",
+      "link": "https://stencil.so/blog/prewalk",
+      "summary": "Comments",
+      "published": "2026-07-15T05:08:26+00:00",
+      "source": "Hacker News",
+      "source_category": "技术社区",
+      "lang": "en",
+      "heat_score": 1.5
+    },
+    {
+      "title": "Celebrating 25 years of visual search innovation",
+      "link": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+      "summary": "Google Images logo surrounded by illustrations of people searching for different images",
+      "published": "2026-07-14T16:00:00+00:00",
+      "source": "Google AI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "How to manage AI investments in the agentic era",
+      "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+      "published": "2026-07-14T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "How sales teams use ChatGPT Work",
+      "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "published": "2026-07-14T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "How data science teams use ChatGPT Work",
+      "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "published": "2026-07-14T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Empowering India’s next generation of innovators with ATL Saathi",
+      "link": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+      "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
+      "published": "2026-07-13T12:37:28+00:00",
+      "source": "Google DeepMind",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "“母病速归”式 AI：号称省 65% Token，实测只有 8.5%",
+      "link": "https://baoyu.io/blog/2026-07-12/caveman-token-saving-test",
+      "summary": "让 AI 像原始人一样说话，确实能省一点 Token，但真正昂贵的是上下文、工具调用和返工。",
+      "published": "2026-07-12T00:00:00+00:00",
+      "source": "宝玉的博客",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "一文看懂ChatGPT、Codex、Work 的差别",
+      "link": "https://baoyu.io/blog/chatgpt-work-codex-guide",
+      "summary": "Chat 回答问题，Work 帮你干活，Codex 帮你写代码：一篇讲清三者区别、共享额度、价格，以及与 Claude Cowork 的差异。",
+      "published": "2026-07-11T00:00:00+00:00",
+      "source": "宝玉的博客",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "My two year old taught me constraint solving",
+      "link": "https://thecomputersciencebook.com/posts/how-my-2yo-taught-me-constraint-solving/",
+      "summary": "Comments",
+      "published": "2026-07-10T19:32:07+00:00",
+      "source": "Hacker News",
+      "source_category": "技术社区",
+      "lang": "en",
+      "heat_score": 1.5
+    },
+    {
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "link": "https://openai.com/index/deutsche-telekom",
+      "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+      "published": "2026-07-10T07:00:00+00:00",
+      "source": "OpenAI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Getting started with ChatGPT",
+      "link": "https://openai.com/academy/getting-started",
+      "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+      "published": "2026-07-10T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+      "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+      "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+      "published": "2026-07-09T13:00:00+00:00",
+      "source": "OpenAI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "link": "https://openai.com/index/gpt-5-6",
+      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+      "published": "2026-07-09T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "ChatGPT is now a partner for your most ambitious work",
+      "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+      "published": "2026-07-09T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "link": "https://openai.com/index/bio-bug-bounty",
+      "summary": "Details about the OpenAI Bio Bounty program",
+      "published": "2026-07-09T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Our approach to government and national security partnerships",
+      "link": "https://openai.com/index/government-national-security-partnerships",
+      "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+      "published": "2026-07-08T13:30:00+00:00",
+      "source": "OpenAI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Separating signal from noise in coding evaluations",
+      "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
+      "published": "2026-07-08T13:00:00+00:00",
+      "source": "OpenAI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Helping K–12 educators build practical AI skills",
+      "link": "https://openai.com/index/k-12-educators-practical-skills",
+      "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
+      "published": "2026-07-08T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Introducing GPT-Live",
+      "link": "https://openai.com/index/introducing-gpt-live",
+      "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
+      "published": "2026-07-08T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "summary": "Managed agents feature bundle launch",
+      "published": "2026-07-07T08:54:00+00:00",
+      "source": "Google AI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+      "link": "https://openai.com/index/australian-payments-plus",
+      "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
+      "published": "2026-07-07T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "link": "https://openai.com/index/mufg",
+      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "published": "2026-07-07T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Import AI 464: Fable writes GPU kernels; AI automation; and analog computation",
+      "link": "https://importai.substack.com/p/import-ai-464-fables-writes-gpu-kernels",
+      "summary": "Is this the beginning of a new world?",
+      "published": "2026-07-06T12:31:05+00:00",
+      "source": "Import AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "从零开始玩转循环 (Getting started with loops)",
+      "link": "https://baoyu.io/blog/2026-07-06/claudedevs-2074208949205881033",
+      "summary": "最近大家都在热议“设计循环 (designing loops)”，而不是简单地给你的写代码的 AI 智能体 (AI Agent) 下提示词。如果你在 X（原 Twitter）上逛一逛，想搞清楚“循环”到底是个啥，你会看到五花八门的答案。",
+      "published": "2026-07-06T00:00:00+00:00",
+      "source": "宝玉的博客",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+      "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+      "summary": "",
+      "published": "2026-07-03T14:25:43+00:00",
+      "source": "Google DeepMind",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）",
+      "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html",
+      "summary": "这里记录每周值得分享的科技内容，周五发布。...",
+      "published": "2026-07-02T23:33:49+00:00",
+      "source": "阮一峰网络日志",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "The latest AI news we announced in June 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+      "summary": "June Pixel Drop hero",
+      "published": "2026-07-01T18:15:00+00:00",
+      "source": "Google AI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+      "link": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+      "summary": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
+      "published": "2026-07-01T16:00:00+00:00",
+      "source": "Google AI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+      "link": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+      "summary": "",
+      "published": "2026-06-30T16:02:40+00:00",
+      "source": "Google DeepMind",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "How ChatGPT adoption has expanded",
+      "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+      "published": "2026-06-30T09:00:00+00:00",
+      "source": "OpenAI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+      "summary": "Four illustrated characters representing different professional roles, including a scientist, technician, explorer, and observer.",
+      "published": "2026-06-30T06:00:00+00:00",
+      "source": "Google AI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "published": "2026-06-30T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Introducing GeneBench-Pro",
+      "link": "https://openai.com/index/introducing-genebench-pro",
+      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+      "published": "2026-06-30T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Inside Genebench-Pro",
+      "link": "https://openai.com/index/genebench-pro/case-studies",
+      "summary": "",
+      "published": "2026-06-30T00:00:00+00:00",
+      "source": "OpenAI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Ask an AI expert: What exactly is the full stack?",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+      "summary": "An illustration depicting a full-stack AI infrastructure against a dark background",
+      "published": "2026-06-29T16:00:00+00:00",
+      "source": "Google AI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Import AI 463: Self-improving robots; a 10k Chinese GPU cluster; and an elegiac essay for the human era",
+      "link": "https://importai.substack.com/p/import-ai-463-self-improving-robots",
+      "summary": "What eras bookend our interregnum?",
+      "published": "2026-06-29T13:03:27+00:00",
+      "source": "Import AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Mapping Europe’s AI Workforce Opportunity",
+      "link": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+      "published": "2026-06-29T07:00:00+00:00",
+      "source": "OpenAI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "link": "https://openai.com/index/hp-frontier-partnership",
+      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+      "published": "2026-06-28T17:00:00+00:00",
+      "source": "OpenAI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Using Local Coding Agents",
+      "link": "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+      "summary": "Using Open-Weight Models in Local Coding Harnesses as an Alternative to Claude Code and Codex Subscriptions",
+      "published": "2026-06-27T11:21:58+00:00",
+      "source": "Ahead of AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "link": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+      "published": "2026-06-26T10:00:00+00:00",
+      "source": "OpenAI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Our latest Google Finance upgrades, including a new app",
+      "link": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
+      "summary": "The Google Finance logo, surrounded by elements of the user interface",
+      "published": "2026-06-25T16:00:00+00:00",
+      "source": "Google AI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "How agents are transforming work",
+      "link": "https://openai.com/index/how-agents-are-transforming-work",
+      "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+      "published": "2026-06-25T02:00:00+00:00",
+      "source": "OpenAI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "link": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+      "summary": "",
+      "published": "2026-06-24T16:30:01+00:00",
+      "source": "Google DeepMind",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+      "published": "2026-06-24T06:00:00+00:00",
+      "source": "OpenAI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Import AI 462: Superpersuasion; self-sustaining AI; paths to ASI",
+      "link": "https://importai.substack.com/p/import-ai-462-superpersuasion-self",
+      "summary": "How religious are beliefs in the singularity?",
+      "published": "2026-06-22T12:31:45+00:00",
+      "source": "Import AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+      "summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
+      "published": "2026-06-17T15:00:00+00:00",
+      "source": "Google AI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Unlocking UK house-building with AI-accelerated planning",
+      "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+      "published": "2026-06-16T21:29:50+00:00",
+      "source": "Google DeepMind",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Securing the future of AI agents",
+      "link": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+      "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
+      "published": "2026-06-16T15:46:31+00:00",
+      "source": "Google DeepMind",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "We’re strengthening our presence in Alabama through new investments and community support.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
+      "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
+      "published": "2026-06-15T15:00:00+00:00",
+      "source": "Google AI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Import AI 461: \"Alignment is not on track\"; FrontierCode; and synthetic research interns",
+      "link": "https://importai.substack.com/p/import-ai-461-alignment-is-not-on",
+      "summary": "Where are your agents right now?",
+      "published": "2026-06-15T11:30:53+00:00",
+      "source": "Import AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "为啥 Codex 还不推出类似 Codex Design 的产品？",
+      "link": "https://baoyu.io/blog/2026-06-13/codex-design-model-gap",
+      "summary": "Claude Design 的关键不在 Harness，而在模型能否同时处理 UI/UX、数据结构、状态管理和交互逻辑。",
+      "published": "2026-06-13T00:00:00+00:00",
+      "source": "宝玉的博客",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
+      "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
+      "published": "2026-06-11T20:00:00+00:00",
+      "source": "Google AI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "DiffusionGemma: 4x faster text generation",
+      "link": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+      "summary": "",
+      "published": "2026-06-10T16:24:11+00:00",
+      "source": "Google DeepMind",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Investing in multi-agent AI safety research",
+      "link": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+      "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
+      "published": "2026-06-10T10:21:19+00:00",
+      "source": "Google DeepMind",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+      "link": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+      "summary": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
+      "published": "2026-06-09T15:16:25+00:00",
+      "source": "Google DeepMind",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+      "link": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+      "summary": "",
+      "published": "2026-06-09T14:10:19+00:00",
+      "source": "Google DeepMind",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Powering the future of robotics in Europe",
+      "link": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
+      "summary": "",
+      "published": "2026-06-09T14:02:33+00:00",
+      "source": "Google DeepMind",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
+      "link": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
+      "summary": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning.",
+      "published": "2026-06-08T13:04:59+00:00",
+      "source": "Google DeepMind",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Import AI 460: Reward hacking society, RSI data from Anthropic; and RL-based quadcopter racing",
+      "link": "https://importai.substack.com/p/import-ai-460-reward-hacking-society",
+      "summary": "When will markets price the singularity?",
+      "published": "2026-06-08T12:31:32+00:00",
+      "source": "Import AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "LLM Research Papers: The 2026 List (January to May)",
+      "link": "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+      "summary": "A curated roundup of notable LLM research papers that came out this year",
+      "published": "2026-06-06T11:16:22+00:00",
+      "source": "Ahead of AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "The latest AI news we announced in May 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+      "summary": "May AI recap",
+      "published": "2026-06-05T14:45:00+00:00",
+      "source": "Google AI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "5 ways Google Search can level up your thrift and vintage shopping",
+      "link": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
+      "summary": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red striped collar, blue sunglasses, denim shorts, a yellow price tag, a red high-heele",
+      "published": "2026-06-03T13:00:00+00:00",
+      "source": "Google AI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "How we used Gemini to build Google I/O 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+      "summary": "A collage of I/O-related images, including the Antigravity Coffee Co. pop-up, a colorful jellyfish and a still from the Timmy TPU video. The word AI repeats three times on the left of the image, and there are colorful icons, including a sparkle, as well.",
+      "published": "2026-06-01T16:00:00+00:00",
+      "source": "Google AI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Import AI 459: AI oversight is difficult; scaling laws for protein folding models; and pricing the extinction risk of AI systems",
+      "link": "https://importai.substack.com/p/import-ai-459-ai-oversight-is-difficult",
+      "summary": "Do you feel as though you are living in a revolution?",
+      "published": "2026-06-01T13:31:56+00:00",
+      "source": "Import AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+      "summary": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
+      "published": "2026-05-29T19:00:00+00:00",
+      "source": "Google AI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+      "summary": "Gemini Omni & Gemini 3.5 hero",
+      "published": "2026-05-29T17:30:00+00:00",
+      "source": "Google AI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Check out real-life AI prototypes from the Futures Lab.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
+      "summary": "University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.",
+      "published": "2026-05-29T12:00:00+00:00",
+      "source": "Google AI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Catch up on 12 major I/O 2026 moments",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
+      "summary": "The colorful I/O logo against a black background, surrounded by stills from the I/O keynote",
+      "published": "2026-05-28T15:00:00+00:00",
+      "source": "Google AI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Import AI 458: Reckoning with the future; and a singularity story",
+      "link": "https://importai.substack.com/p/import-ai-458-reckoning-with-the",
+      "summary": "What AI-driven miracles will happen this year?",
+      "published": "2026-05-26T12:32:03+00:00",
+      "source": "Import AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "DeepSeek 的 10 万亿美元大战略",
+      "link": "https://baoyu.io/blog/2026-05-23/bookwormengr-status-2057909493250539891",
+      "summary": "你有没有想过，DeepSeek 可能怎么赚钱，而且赚很多钱？",
+      "published": "2026-05-23T00:00:00+00:00",
+      "source": "宝玉的博客",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Catch up on the Dialogues stage at Google I/O 2026.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
+      "summary": "Alphabet CEO Sundar Pichai in conversation on the I/O 2026 Dialogues stage",
+      "published": "2026-05-22T18:00:00+00:00",
+      "source": "Google AI Blog",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+      "link": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+      "summary": "",
+      "published": "2026-05-21T19:46:42+00:00",
+      "source": "Google DeepMind",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "来自 Codex 官方团队的分享：如何把 Codex 用到极致",
+      "link": "https://baoyu.io/blog/2026-05-20/jxnlco-2057153744630890620",
+      "summary": "大多数开发者最初使用编程智能体，是为了写代码：检查仓库、生成 diff、跑测试、开 pull request。",
+      "published": "2026-05-20T00:00:00+00:00",
+      "source": "宝玉的博客",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+      "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.At its annual I/O developer conference, Google ann",
+      "published": "2026-05-19T17:45:00+00:00",
+      "source": "VentureBeat AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Fast-tracking genetic leads to reverse cellular aging",
+      "link": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+      "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+      "published": "2026-05-18T18:21:39+00:00",
+      "source": "Google DeepMind",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Import AI 457: AI stuxnet; cursed Muon optimizer; and positive alignment",
+      "link": "https://importai.substack.com/p/import-ai-457-ai-stuxnet-cursed-muon",
+      "summary": "Welcome to Import AI, a newsletter about AI research.",
+      "published": "2026-05-18T13:31:17+00:00",
+      "source": "Import AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Simulate real-world places with Project Genie and Street View",
+      "link": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+      "summary": "We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.",
+      "published": "2026-05-17T19:53:18+00:00",
+      "source": "Google DeepMind",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Introducing Gemini Omni",
+      "link": "https://deepmind.google/blog/introducing-gemini-omni/",
+      "summary": "",
+      "published": "2026-05-17T19:50:57+00:00",
+      "source": "Google DeepMind",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Introducing Google Antigravity 2.0",
+      "link": "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+      "summary": "",
+      "published": "2026-05-17T19:43:45+00:00",
+      "source": "Google DeepMind",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
+      "link": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
+      "summary": "A collection of science tools and experiments to expand the scale and precision of scientific exploration.",
+      "published": "2026-05-17T13:50:34+00:00",
+      "source": "Google DeepMind",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Making it easier to understand how content was created and edited",
+      "link": "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/",
+      "summary": "We're expanding our tools to help you understand how content was created and edited across the web.",
+      "published": "2026-05-17T13:43:50+00:00",
+      "source": "Google DeepMind",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "为什么我不“凭感觉编程”",
+      "link": "https://baoyu.io/translations/2026-05-17/i-dont-vibe-code",
+      "summary": "这篇文章从成本、经验、抽象、数据、摩擦、责任和创作乐趣等角度，解释作者为什么始终无法真正接受 vibe coding。",
+      "published": "2026-05-17T00:00:00+00:00",
+      "source": "宝玉的博客",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
+      "link": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+      "summary": "From Gemma 4 to DeepSeek V4, How New Open-Weight LLMs Are Reducing Long-Context Costs",
+      "published": "2026-05-16T11:33:51+00:00",
+      "source": "Ahead of AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Strengthening Singapore’s AI Future: A New National Partnership",
+      "link": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
+      "summary": "Google DeepMind and Singapore partner to apply frontier AI to address complex challenges across health, education, and sustainability and more.",
+      "published": "2026-05-16T09:13:34+00:00",
+      "source": "Google DeepMind",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Finding the molecular switches behind new infectious diseases",
+      "link": "https://deepmind.google/blog/finding-the-molecular-switches-behind-new-infectious-diseases/",
+      "summary": "Clare Bryant uses Co-Scientist to identify genetic triggers in emerging infectious diseases.",
+      "published": "2026-05-16T08:16:06+00:00",
+      "source": "Google DeepMind",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Opening new paths in aging research",
+      "link": "https://deepmind.google/blog/opening-new-paths-in-aging-research/",
+      "summary": "Calico Life Sciences uses Co-Scientist to connect scattered findings and generate new leads in aging research.",
+      "published": "2026-05-16T08:08:44+00:00",
+      "source": "Google DeepMind",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Accelerating discovery of liver disease mechanisms",
+      "link": "https://deepmind.google/blog/accelerating-discovery-of-liver-disease-mechanisms/",
+      "summary": "Filippo Menolascina uses Co-Scientist to identify new liver disease treatments and explain why existing drugs only help certain patients.",
+      "published": "2026-05-16T08:00:15+00:00",
+      "source": "Google DeepMind",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Uniting biological toolkits for a new approach to ALS",
+      "link": "https://deepmind.google/blog/uniting-biological-toolkits-for-a-new-approach-to-als/",
+      "summary": "Co-Scientist unites Boston Children’s Hospital and MIT’s labs to explore new RNA-based treatments for ALS.",
+      "published": "2026-05-16T07:53:11+00:00",
+      "source": "Google DeepMind",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Uncovering repurposed medicines to fight liver fibrosis",
+      "link": "https://deepmind.google/blog/uncovering-repurposed-medicines-to-fight-liver-fibrosis/",
+      "summary": "Stanford geneticist uses Co-Scientist to help find new treatments for chronic liver disease and liver fibrosis.",
+      "published": "2026-05-16T07:40:27+00:00",
+      "source": "Google DeepMind",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "How WeatherNext helped the National Hurricane Center better predict Hurricane Melissa’s historic landfall in Jamaica",
+      "link": "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/",
+      "summary": "Learn how our WeatherNext AI model help forecasters give communities unprecedented time to prepare ahead of  the historic Hurricane Melissa.",
+      "published": "2026-05-16T03:14:17+00:00",
+      "source": "Google DeepMind",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "创始人手册：打造 AI 原生初创公司",
+      "link": "https://baoyu.io/translations/2026-05-16/the-founders-playbook-building-an-ai-native-startup",
+      "summary": "AI 正在重塑初创公司的生命周期：从构思、MVP、发布到扩展，创始人可以用 Claude、Claude Code 和 Claude Cowork 压缩验证、开发和运营周期。",
+      "published": "2026-05-16T00:00:00+00:00",
+      "source": "宝玉的博客",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Gemini 3.5: frontier intelligence with action",
+      "link": "https://deepmind.google/blog/gemini-3-5-frontier-intelligence-with-action/",
+      "summary": "Gemini 3.5 is built to help you execute complex, agentic workflows.",
+      "published": "2026-05-15T22:50:12+00:00",
+      "source": "Google DeepMind",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Forward Deployed Engineer：AI 时代的新宠岗位，到底干什么？",
+      "link": "https://baoyu.io/blog/2026-05-15/forward-deployed-engineer",
+      "summary": "FDE 正成为 AI 公司争抢的新岗位，关键不是写模型，而是把模型真正接进企业业务。",
+      "published": "2026-05-15T00:00:00+00:00",
+      "source": "宝玉的博客",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Co-Scientist: A multi-agent AI partner to accelerate research",
+      "link": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/",
+      "summary": "Introducing Co-Scientist, a collaborative AI partner built with Gemini to help researchers accelerate scientific breakthroughs.",
+      "published": "2026-05-12T14:40:07+00:00",
+      "source": "Google DeepMind",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "为什么资深开发者讲不清自己的专业能力",
+      "link": "https://baoyu.io/translations/2026-05-12/why-senior-developers-fail-to-communicate-their-expertise",
+      "summary": "资深开发者习惯用复杂度来解释问题，而业务里的其他人真正担心的是不确定性；以及在 AI 已经进入视野之后，这件事该怎么办。",
+      "published": "2026-05-12T00:00:00+00:00",
+      "source": "宝玉的博客",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "AI 时代到底该怎么管一个工程团队",
+      "link": "https://baoyu.io/blog/2026-05-12/running-an-ai-native-engineering-org",
+      "summary": "Fiona Fung 以 Claude Code 团队实践说明，AI 时代的软件工程不再卡在写代码，而是卡在验证、评审、跨职能协作和安全边界。真正需要重构的是流程、组织结构、知识共享方式和衡量指标。",
+      "published": "2026-05-12T00:00:00+00:00",
+      "source": "宝玉的博客",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Import AI 456: RSI and economic growth; radical optionality for AI regulation; and a neural computer",
+      "link": "https://importai.substack.com/p/import-ai-456-rsi-and-economic-growth",
+      "summary": "What laws does superintelligence demand?",
+      "published": "2026-05-11T12:46:12+00:00",
+      "source": "Import AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Codex 的野心，MCP 和 Skill 的下一步",
+      "link": "https://baoyu.io/blog/2026-05-11/skill-next-codex",
+      "summary": "Codex 右侧工作区的演进不只是 UI 变化，而是在为插件生态铺路。",
+      "published": "2026-05-11T00:00:00+00:00",
+      "source": "宝玉的博客",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "深度拆解：AI Agent Harness 的构造",
+      "link": "https://baoyu.io/translations/2026-05-10/akshay-pachaar-2041146899319971922",
+      "summary": "深入探讨 Anthropic、OpenAI、Perplexity 和 LangChain 究竟在开发什么。涵盖编排循环、工具、记忆、上下文管理以及所有能将“无状态”大语言模型转变为全能 Agent 的核心组件。",
+      "published": "2026-05-10T00:00:00+00:00",
+      "source": "宝玉的博客",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "裁员潮将持续，直到我们学会发掘 AI 的商业价值",
+      "link": "https://baoyu.io/translations/2026-05-10/championswimmer-2051807284691612099",
+      "summary": "AI 没有直接替代某个岗位，却通过 Token 成本、代码投入膨胀和组织对齐税，把企业推向新一轮裁员。",
+      "published": "2026-05-10T00:00:00+00:00",
+      "source": "宝玉的博客",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "机器人的终局：英伟达 Jim Fan 宣告 VLA 时代结束，WAM 登场",
+      "link": "https://baoyu.io/blog/robotics-end-game-nvidias-jim-fan",
+      "summary": "Jim Fan 在 AI Ascent 演讲中宣布 VLA 路线过时，提出以世界动作模型（WAM）为核心的新范式，并预测 2040 年到达机器人终局。",
+      "published": "2026-05-10T00:00:00+00:00",
+      "source": "宝玉的博客",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "使用 Claude Code：HTML 难以置信的奇效",
+      "link": "https://baoyu.io/translations/2026-05-08/trq212-status-2052809885763747935",
+      "summary": "Markdown 已经成为 AI 智能体与我们交流的主要文件格式。它简单、轻量，具备一定的富文本能力且易于人工编辑。Claude 甚至已经极其擅长在 Markdown 文件里使用 ASCII 字符绘制图表。然而，随着 AI 越来越强大，HTML 开始展现出惊人的效果。",
+      "published": "2026-05-08T00:00:00+00:00",
+      "source": "宝玉的博客",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+      "link": "https://deepmind.google/blog/alphaevolve-impact/",
+      "summary": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
+      "published": "2026-05-06T10:43:49+00:00",
+      "source": "Google DeepMind",
+      "source_category": "官方博客",
+      "lang": "en",
+      "heat_score": 3.0
+    },
+    {
+      "title": "Anthropic 兄妹 Dario Amodei 和 Daniela Amodei 最新对话：Claude 为什么一直限速？",
+      "link": "https://baoyu.io/blog/a-conversation-with-dario-amodei-daniela-amodei",
+      "summary": "Dario 和 Daniela 把 Anthropic 的增长、算力、安全和组织级 AI 摆到了同一张指数曲线上。",
+      "published": "2026-05-06T00:00:00+00:00",
+      "source": "宝玉的博客",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Boris Cherny：Claude Code 之后，写代码正在变成“管理 Agent”",
+      "link": "https://baoyu.io/blog/anthropics-boris-cherny-why-coding-is-solved-and-what-comes-next",
+      "summary": "Boris Cherny 认为，Claude Code 正在把编程从亲手写代码变成调度 Agent 和重塑组织流程。",
+      "published": "2026-05-05T00:00:00+00:00",
+      "source": "宝玉的博客",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Import AI 455: AI systems are about to start building themselves.",
+      "link": "https://importai.substack.com/p/import-ai-455-automating-ai-research",
+      "summary": "The first step towards recursive self improvement",
+      "published": "2026-05-04T12:32:09+00:00",
+      "source": "Import AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "大多数公司根本没有为 AI 做好准备",
+      "link": "https://baoyu.io/blog/2026-05-03/danielmiessler-status-2050666594188304484",
+      "summary": "企业用不好 AI，往往不是因为 AI 不够强，而是因为企业自己说不清目标、流程、责任和成本。",
+      "published": "2026-05-03T00:00:00+00:00",
+      "source": "宝玉的博客",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Demis Hassabis：AGI 还缺什么，智能体到底行不行，下一个科学突破长什么样",
+      "link": "https://baoyu.io/blog/demis-hassabis-agents-agi-and-the-next-big-scientific-breakthrough",
+      "summary": "Hassabis 用 50/50 的判断拆解 AGI、智能体和 AI for Science 的真实进展。",
+      "published": "2026-04-30T00:00:00+00:00",
+      "source": "宝玉的博客",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Karpathy 最新访谈：Vibe Coding 只是开始，真正重要的是 Agentic Engineering",
+      "link": "https://baoyu.io/blog/andrej-karpathy-from-vibe-coding-to-agentic-engineering",
+      "summary": "Karpathy 认为，AI 编程的下一步不是更快写代码，而是用 Agentic Engineering 守住软件质量。",
+      "published": "2026-04-29T00:00:00+00:00",
+      "source": "宝玉的博客",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "深度拆解 Hermes Agent 的记忆系统：它如何修正 OpenClaw 的误区",
+      "link": "https://baoyu.io/blog/2026-04-29/manthanguptaa-2034849672985288957",
+      "summary": "如果你读过我之前关于 ChatGPT Memory、Claude Memory 和 OpenClaw 记忆系统的文章，你应该已经知道，我一直在追问同一个问题：这些 Agent 到底是怎么记住事情的？",
+      "published": "2026-04-29T00:00:00+00:00",
+      "source": "宝玉的博客",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "AI 的经济账根本算不通",
+      "link": "https://baoyu.io/blog/2026-04-28/ais-economics-dont-make-sense",
+      "summary": "Copilot 转向按量计费只是开始：AI 订阅、token 成本和数据中心债务背后的经济账正在失衡。",
+      "published": "2026-04-28T00:00:00+00:00",
+      "source": "宝玉的博客",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "为 Agent 设计产品",
+      "link": "https://baoyu.io/blog/2026-04-24/teddy-riker-2047312986696454584",
+      "summary": "UI 并没有死，但软件交互的 80% 正在转向 Agent。产品团队需要像过去为人设计界面一样，认真为 Agent 设计工具、上下文和反馈闭环。",
+      "published": "2026-04-24T00:00:00+00:00",
+      "source": "宝玉的博客",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Cat Wu 面试了几百个 PM 候选人，几乎没人答对一个问题：AI 产品经理到底应该干什么？",
+      "link": "https://baoyu.io/blog/building-agi-pilled-products-cat-wu-head-of-product-claude-code",
+      "summary": "面试几百个 PM 后，Cat Wu 发现大多数人对 AI PM 角色的理解方向不对。",
+      "published": "2026-04-23T00:00:00+00:00",
+      "source": "宝玉的博客",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Import AI 454: Automating alignment research; safety study of a Chinese model; HiFloat4",
+      "link": "https://importai.substack.com/p/import-ai-454-automating-alignment",
+      "summary": "At what point do the financial markets price in the singularity?",
+      "published": "2026-04-20T12:30:19+00:00",
+      "source": "Import AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "My Workflow for Understanding LLM Architectures",
+      "link": "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+      "summary": "A learning-oriented workflow for understanding new open-weight model releases",
+      "published": "2026-04-18T11:24:36+00:00",
+      "source": "Ahead of AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "两小时激辩：黄仁勋为什么不怕 TPU、不怕华为、不怕出口管制？",
+      "link": "https://baoyu.io/blog/jensen-huang-dwarkesh-interview",
+      "summary": "黄仁勋接受 Dwarkesh 两小时专访，从 CUDA 护城河到对华出口管制，每个话题都火力全开。",
+      "published": "2026-04-17T00:00:00+00:00",
+      "source": "宝玉的博客",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "设计圈的 Claude Code 时刻来了",
+      "link": "https://baoyu.io/blog/2026-04-17/claude-design",
+      "summary": "Claude Design 实测：3 轮对话产出可交互原型，设计工具的游戏规则正在改写。",
+      "published": "2026-04-17T00:00:00+00:00",
+      "source": "宝玉的博客",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "使用 Claude Code：会话管理与 100 万 上下文",
+      "link": "https://baoyu.io/translations/claude-code-session-management",
+      "summary": "Claude Code 核心布道者 Thariq 深度解读上下文窗口管理策略：何时开新会话、回溯 vs 纠正、压缩 vs 清空、子智能体的最佳使用时机，以及如何避免糟糕的上下文压缩。",
+      "published": "2026-04-15T00:00:00+00:00",
+      "source": "宝玉的博客",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Vibe Coding 是中年男人的钓鱼",
+      "link": "https://baoyu.io/blog/2026-04-14/vibe-coding-and-fishing",
+      "summary": "Vibe Coding 对中年男人的意义，跟钓鱼一样——都是一种合法且体面的独处方式。",
+      "published": "2026-04-15T00:00:00+00:00",
+      "source": "宝玉的博客",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Import AI 453: Breaking AI agents; MirrorCode; and ten views on gradual disempowerment",
+      "link": "https://importai.substack.com/p/import-ai-453-breaking-ai-agents",
+      "summary": "Was fire equivalent to a singularity for people at the time?",
+      "published": "2026-04-13T10:02:22+00:00",
+      "source": "Import AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "为什么你的\"AI 优先\"战略可能大错特错？",
+      "link": "https://baoyu.io/blog/2026-04-13/ai-first",
+      "summary": "AI First 听着美好，但没有工程基础支撑，就是在沙子上盖楼。",
+      "published": "2026-04-13T00:00:00+00:00",
+      "source": "宝玉的博客",
+      "source_category": "中文媒体",
+      "lang": "zh",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Import AI 452: Scaling laws for cyberwar; rising tides of AI automation; and a puzzle over gDP forecasting",
+      "link": "https://importai.substack.com/p/import-ai-452-scaling-laws-for-cyberwar",
+      "summary": "How much could AI revolutionize the economy?",
+      "published": "2026-04-06T12:31:31+00:00",
+      "source": "Import AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Components of A Coding Agent",
+      "link": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+      "summary": "How coding agents use tools, memory, and repo context to make LLMs work better in practice",
+      "published": "2026-04-04T11:45:37+00:00",
+      "source": "Ahead of AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Import AI 451: Political superintelligence; Google's society of minds, and a robot drummer",
+      "link": "https://importai.substack.com/p/import-ai-451-political-superintelligence",
+      "summary": "Are there any genies that can be put back in the bottle?",
+      "published": "2026-03-30T12:28:13+00:00",
+      "source": "Import AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Import AI 450: China's electronic warfare model; traumatized LLMs; and a scaling law for cyberattacks",
+      "link": "https://importai.substack.com/p/import-ai-450-chinas-electronic-warfare",
+      "summary": "How will timeless minds value time?",
+      "published": "2026-03-23T12:31:45+00:00",
+      "source": "Import AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "A Visual Guide to Attention Variants in Modern LLMs",
+      "link": "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+      "summary": "From MHA and GQA to MLA, sparse attention, and hybrid architectures",
+      "published": "2026-03-22T11:55:40+00:00",
+      "source": "Ahead of AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "ImportAI 449: LLMs training other LLMs; 72B distributed training run; computer vision is harder than generative text",
+      "link": "https://importai.substack.com/p/importai-449-llms-training-other",
+      "summary": "Will AI cause a political interregnum",
+      "published": "2026-03-16T12:30:50+00:00",
+      "source": "Import AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Import AI 448: AI R&D; Bytedance's CUDA-writing agent; on-device satellite AI",
+      "link": "https://importai.substack.com/p/import-ai-448-ai-r-and-d-bytedances",
+      "summary": "If Ukraine is the first major drone war, when will there be the first major AI war?",
+      "published": "2026-03-09T12:45:54+00:00",
+      "source": "Import AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Import AI 447: The AGI economy; testing AIs with generated games; and agent ecologies",
+      "link": "https://importai.substack.com/p/import-ai-447-the-agi-economy-testing",
+      "summary": "What might a superintelligence arcology be like?",
+      "published": "2026-03-02T13:45:27+00:00",
+      "source": "Import AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "A Dream of Spring for Open-Weight LLMs: 10 Architectures from Jan-Feb 2026",
+      "link": "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+      "summary": "A Round Up And Comparison of 10 Open-Weight LLM Releases in Spring 2026",
+      "published": "2026-02-25T13:26:56+00:00",
+      "source": "Ahead of AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Import AI 446: Nuclear LLMs; China's big AI benchmark; measurement and AI policy",
+      "link": "https://importai.substack.com/p/import-ai-446-nuclear-llms-chinas",
+      "summary": "Will AIs be jealous of one another?",
+      "published": "2026-02-23T13:31:18+00:00",
+      "source": "Import AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Categories of Inference-Time Scaling for Improved LLM Reasoning",
+      "link": "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
+      "summary": "And an Overview of Recent Inference-Scaling Papers",
+      "published": "2026-01-24T11:23:18+00:00",
+      "source": "Ahead of AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "summary": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of lega",
+      "published": "2026-01-22T14:00:00+00:00",
+      "source": "VentureBeat AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "The State Of LLMs 2025: Progress, Problems, and Predictions",
+      "link": "https://magazine.sebastianraschka.com/p/state-of-llms-2025",
+      "summary": "A 2025 review of large language models, from DeepSeek R1 and RLVR to inference-time scaling, benchmarks, architectures, and predictions for 2026.",
+      "published": "2025-12-30T12:22:26+00:00",
+      "source": "Ahead of AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "LLM Research Papers: The 2025 List (July to December)",
+      "link": "https://magazine.sebastianraschka.com/p/llm-research-papers-2025-part2",
+      "summary": "In June, I shared a bonus article with my curated and bookmarked research paper lists to the paid subscribers who make this Substack possible.",
+      "published": "2025-12-30T12:15:39+00:00",
+      "source": "Ahead of AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "From DeepSeek V3 to V3.2: Architecture, Sparse Attention, and RL Updates",
+      "link": "https://magazine.sebastianraschka.com/p/technical-deepseek",
+      "summary": "Understanding How DeepSeek's Flagship Open-Weight Models Evolved",
+      "published": "2025-12-03T12:03:33+00:00",
+      "source": "Ahead of AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Beyond Standard LLMs",
+      "link": "https://magazine.sebastianraschka.com/p/beyond-standard-llms",
+      "summary": "Linear Attention Hybrids, Text Diffusion, Code World Models, and Small Recursive Transformers",
+      "published": "2025-11-04T13:06:07+00:00",
+      "source": "Ahead of AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Understanding the 4 Main Approaches to LLM Evaluation (From Scratch)",
+      "link": "https://magazine.sebastianraschka.com/p/llm-evaluation-4-approaches",
+      "summary": "Multiple-Choice Benchmarks, Verifiers, Leaderboards, and LLM Judges with Code Examples",
+      "published": "2025-10-05T11:12:32+00:00",
+      "source": "Ahead of AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Understanding and Implementing Qwen3 From Scratch",
+      "link": "https://magazine.sebastianraschka.com/p/qwen3-from-scratch",
+      "summary": "A Detailed Look at One of the Leading Open-Source LLMs",
+      "published": "2025-09-06T11:10:21+00:00",
+      "source": "Ahead of AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "From GPT-2 to gpt-oss: Analyzing the Architectural Advances",
+      "link": "https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the",
+      "summary": "And How They Stack Up Against Qwen3",
+      "published": "2025-08-09T11:23:07+00:00",
+      "source": "Ahead of AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "The Big LLM Architecture Comparison",
+      "link": "https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison",
+      "summary": "From DeepSeek-V3 to Kimi K2: A Look At Modern LLM Architecture Design",
+      "published": "2025-07-19T11:11:10+00:00",
+      "source": "Ahead of AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "LLM Research Papers: The 2025 List (January to June)",
+      "link": "https://magazine.sebastianraschka.com/p/llm-research-papers-2025-list-one",
+      "summary": "A topic-organized collection of 200+ LLM research papers from 2025",
+      "published": "2025-07-01T11:11:45+00:00",
+      "source": "Ahead of AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Understanding and Coding the KV Cache in LLMs from Scratch",
+      "link": "https://magazine.sebastianraschka.com/p/coding-the-kv-cache-in-llms",
+      "summary": "KV caches are one of the most critical techniques for efficient inference in LLMs in production.",
+      "published": "2025-06-17T10:55:34+00:00",
+      "source": "Ahead of AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    },
+    {
+      "title": "Coding LLMs from the Ground Up: A Complete Course",
+      "link": "https://magazine.sebastianraschka.com/p/coding-llms-from-the-ground-up",
+      "summary": "Why build LLMs from scratch? It's probably the best and most efficient way to learn how LLMs really work. Plus, many readers have told me they had a lot of fun doing it.",
+      "published": "2025-05-10T11:03:17+00:00",
+      "source": "Ahead of AI",
+      "source_category": "英文媒体",
+      "lang": "en",
+      "heat_score": 2.0
+    }
+  ]
+}

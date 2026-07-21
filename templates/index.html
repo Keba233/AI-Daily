@@ -1,0 +1,249 @@
+{% extends "base.html" %}
+
+{% block title %}AI日报 - {{ current_date }}{% endblock %}
+
+{% block content %}
+<!-- AI每日总结区域 -->
+<section class="mb-8">
+    <div class="bg-gradient-to-r from-blue-600 via-purple-600 to-indigo-600 rounded-2xl p-6 sm:p-8 text-white gradient-animate">
+        <div class="flex items-center justify-between mb-4">
+            <div class="flex items-center space-x-3">
+                <div class="w-10 h-10 bg-white/20 rounded-lg flex items-center justify-center backdrop-blur-sm">
+                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"/>
+                    </svg>
+                </div>
+                <div>
+                    <h1 class="text-xl sm:text-2xl font-bold">AI 每日总结</h1>
+                    <p class="text-blue-100 text-sm">{{ current_date }}</p>
+                </div>
+            </div>
+            <div class="flex items-center space-x-2">
+                {% if summary and summary.model and summary.model != 'rule-based' %}
+                <span class="bg-white/20 backdrop-blur-sm px-3 py-1 rounded-full text-xs font-medium flex items-center space-x-1">
+                    <svg class="w-3 h-3" fill="currentColor" viewBox="0 0 20 20"><path d="M10 2a8 8 0 100 16 8 8 0 000-16zm1 11H9v-2h2v2zm0-4H9V5h2v4z"/></svg>
+                    <span>{{ summary.model }}</span>
+                </span>
+                {% elif summary and summary.model == 'rule-based' %}
+                <span class="bg-yellow-400/30 backdrop-blur-sm px-3 py-1 rounded-full text-xs font-medium">
+                    规则摘要
+                </span>
+                {% else %}
+                <span class="bg-white/20 backdrop-blur-sm px-3 py-1 rounded-full text-xs font-medium">
+                    AI 精选
+                </span>
+                {% endif %}
+            </div>
+        </div>
+
+        {% if summary and summary.summary_text %}
+        <p class="text-blue-50 text-base mb-5">{{ summary.summary_text }}</p>
+        <div class="space-y-3">
+            {% for item in summary.summary_items %}
+            <div class="bg-white/10 backdrop-blur-sm rounded-xl p-4 card-hover cursor-pointer fade-in" style="animation-delay: {{ loop.index0 * 0.05 }}s" onclick="window.open('{{ item.link }}', '_blank')">
+                <div class="flex items-start space-x-3">
+                    <span class="flex-shrink-0 w-7 h-7 bg-white/20 rounded-full flex items-center justify-center text-sm font-bold mt-0.5">
+                        {{ loop.index }}
+                    </span>
+                    <div class="flex-1 min-w-0">
+                        <div class="flex items-center space-x-2 mb-2">
+                            <span class="cat-{{ item.category }} text-xs px-2 py-0.5 rounded-full font-medium">
+                                {{ categories.get(item.category, item.category) }}
+                            </span>
+                            <span class="text-blue-200 text-xs">{{ item.source }}</span>
+                        </div>
+                        <h3 class="font-semibold text-white text-sm sm:text-base leading-snug mb-2">{{ item.title }}</h3>
+                        <p class="text-blue-50 text-sm leading-relaxed">{{ item.summary }}</p>
+                    </div>
+                    <svg class="w-4 h-4 text-blue-200 flex-shrink-0 mt-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/>
+                    </svg>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        {% else %}
+        <div class="text-center py-8">
+            <p class="text-blue-100 text-lg">暂无今日AI总结</p>
+            <p class="text-blue-200 text-sm mt-2">点击右上角"刷新"获取最新资讯</p>
+        </div>
+        {% endif %}
+    </div>
+</section>
+
+<!-- 资讯列表区域 -->
+<section>
+    <!-- 列表头部：标题 + 视图切换 -->
+    <div class="flex flex-col sm:flex-row sm:items-center justify-between mb-4 space-y-3 sm:space-y-0">
+        <div class="flex items-center space-x-2">
+            <h2 class="text-lg font-bold text-gray-900">今日资讯</h2>
+            <span class="text-sm text-gray-400" id="article-count">共 {{ articles|length }} 条</span>
+        </div>
+        <div class="flex items-center space-x-2 bg-white rounded-lg p-1 shadow-sm border border-gray-200">
+            <button onclick="switchView('timeline')" class="view-btn active px-3 py-1.5 rounded-md text-sm font-medium transition-all" data-view="timeline">
+                <span class="flex items-center space-x-1">
+                    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+                    <span>时间</span>
+                </span>
+            </button>
+            <button onclick="switchView('category')" class="view-btn px-3 py-1.5 rounded-md text-sm font-medium text-gray-500 hover:text-gray-700 transition-all" data-view="category">
+                <span class="flex items-center space-x-1">
+                    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2V6zM14 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2V6zM4 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2v-2zM14 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2v-2z"/></svg>
+                    <span>分类</span>
+                </span>
+            </button>
+            <button onclick="switchView('heat')" class="view-btn px-3 py-1.5 rounded-md text-sm font-medium text-gray-500 hover:text-gray-700 transition-all" data-view="heat">
+                <span class="flex items-center space-x-1">
+                    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 18.657A8 8 0 016.343 7.343S7 9 9 10c0-2 .5-5 2.986-7C14 5 16.09 5.777 17.656 7.343A7.975 7.975 0 0120 13a7.975 7.975 0 01-2.343 5.657z"/></svg>
+                    <span>热度</span>
+                </span>
+            </button>
+        </div>
+    </div>
+
+    <!-- 资讯列表内容 -->
+    <div id="articles-container">
+        {% if articles %}
+            <!-- 时间流视图（默认） -->
+            <div id="view-timeline" class="space-y-3">
+                {% for article in articles %}
+                <article class="bg-white rounded-xl p-4 shadow-sm border border-gray-100 card-hover fade-in" style="animation-delay: {{ loop.index0 * 0.03 }}s">
+                    <div class="flex items-start justify-between">
+                        <div class="flex-1 min-w-0">
+                            <div class="flex items-center space-x-2 mb-2">
+                                <span class="cat-{{ article.category }} text-xs px-2 py-0.5 rounded-full font-medium">
+                                    {{ categories.get(article.category, article.category) }}
+                                </span>
+                                <span class="text-xs text-gray-400">{{ article.source }}</span>
+                                <span class="text-xs text-gray-300">•</span>
+                                <span class="text-xs text-gray-400">{{ article.published | format_article_time }}</span>
+                                {% if article.lang == 'en' %}
+                                <span class="bg-gray-100 text-gray-500 text-xs px-1.5 py-0.5 rounded">EN</span>
+                                {% endif %}
+                            </div>
+                            <a href="{{ article.link }}" target="_blank" class="text-gray-900 font-medium hover:text-blue-600 transition-colors text-sm sm:text-base leading-snug block">
+                                {{ article.title }}
+                            </a>
+                            {% if article.summary %}
+                            <p class="text-gray-500 text-xs sm:text-sm mt-1.5 line-clamp-2">{{ article.summary }}</p>
+                            {% endif %}
+                        </div>
+                        <a href="{{ article.link }}" target="_blank" class="flex-shrink-0 ml-3 text-gray-300 hover:text-blue-500 transition-colors">
+                            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/>
+                            </svg>
+                        </a>
+                    </div>
+                </article>
+                {% endfor %}
+            </div>
+
+            <!-- 分类卡片视图 -->
+            <div id="view-category" class="hidden">
+                {% set ns = namespace(cats={}) %}
+                {% for article in articles %}
+                    {% if article.category not in ns.cats %}
+                        {% set _ = ns.cats.update({article.category: []}) %}
+                    {% endif %}
+                    {% set _ = ns.cats[article.category].append(article) %}
+                {% endfor %}
+
+                {% for cat_key, cat_name in categories.items() %}
+                    {% set cat_articles = ns.cats.get(cat_key, []) %}
+                    {% if cat_articles %}
+                    <div class="mb-6">
+                        <h3 class="text-base font-bold text-gray-800 mb-3 flex items-center space-x-2">
+                            <span class="cat-{{ cat_key }} text-xs px-2.5 py-1 rounded-full font-medium">{{ cat_name }}</span>
+                            <span class="text-sm text-gray-400 font-normal">{{ cat_articles|length }} 条</span>
+                        </h3>
+                        <div class="space-y-2">
+                            {% for article in cat_articles %}
+                            <article class="bg-white rounded-xl p-4 shadow-sm border border-gray-100 card-hover">
+                                <div class="flex items-start justify-between">
+                                    <div class="flex-1 min-w-0">
+                                        <div class="flex items-center space-x-2 mb-1">
+                                            <span class="text-xs text-gray-400">{{ article.source }}</span>
+                                            <span class="text-xs text-gray-300">•</span>
+                                            <span class="text-xs text-gray-400">{{ article.published | format_article_time }}</span>
+                                        </div>
+                                        <a href="{{ article.link }}" target="_blank" class="text-gray-900 font-medium hover:text-blue-600 transition-colors text-sm leading-snug">
+                                            {{ article.title }}
+                                        </a>
+                                    </div>
+                                    <a href="{{ article.link }}" target="_blank" class="flex-shrink-0 ml-3 text-gray-300 hover:text-blue-500 transition-colors">
+                                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/>
+                                        </svg>
+                                    </a>
+                                </div>
+                            </article>
+                            {% endfor %}
+                        </div>
+                    </div>
+                    {% endif %}
+                {% endfor %}
+            </div>
+
+            <!-- 热度排序视图 -->
+            <div id="view-heat" class="hidden space-y-3">
+                {% for article in articles|sort(attribute='heat_score', reverse=true) %}
+                <article class="bg-white rounded-xl p-4 shadow-sm border border-gray-100 card-hover">
+                    <div class="flex items-start space-x-3">
+                        <div class="flex-shrink-0 w-8 h-8 rounded-lg flex items-center justify-center text-sm font-bold
+                            {% if loop.index <= 3 %}bg-gradient-to-br from-orange-400 to-red-500 text-white
+                            {% else %}bg-gray-100 text-gray-500{% endif %}">
+                            {{ loop.index }}
+                        </div>
+                        <div class="flex-1 min-w-0">
+                            <div class="flex items-center space-x-2 mb-1">
+                                <span class="cat-{{ article.category }} text-xs px-2 py-0.5 rounded-full font-medium">
+                                    {{ categories.get(article.category, article.category) }}
+                                </span>
+                                <span class="text-xs text-gray-400">{{ article.source }}</span>
+                                <span class="text-xs text-gray-300">•</span>
+                                <span class="text-xs text-gray-400">{{ article.published | format_article_time }}</span>
+                            </div>
+                            <a href="{{ article.link }}" target="_blank" class="text-gray-900 font-medium hover:text-blue-600 transition-colors text-sm sm:text-base leading-snug">
+                                {{ article.title }}
+                            </a>
+                            {% if article.summary %}
+                            <p class="text-gray-500 text-xs sm:text-sm mt-1 line-clamp-2">{{ article.summary }}</p>
+                            {% endif %}
+                        </div>
+                    </div>
+                </article>
+                {% endfor %}
+            </div>
+        {% else %}
+            <div class="text-center py-16">
+                <svg class="w-16 h-16 text-gray-300 mx-auto mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z"/>
+                </svg>
+                <p class="text-gray-400 text-lg mb-2">暂无资讯数据</p>
+                <p class="text-gray-300 text-sm">点击右上角"刷新"按钮获取最新AI资讯</p>
+            </div>
+        {% endif %}
+    </div>
+</section>
+{% endblock %}
+
+{% block extra_scripts %}
+<script>
+    // 视图切换
+    function switchView(view) {
+        // 更新按钮状态
+        document.querySelectorAll('.view-btn').forEach(btn => {
+            btn.classList.remove('active');
+            btn.classList.add('text-gray-500');
+        });
+        document.querySelector(`[data-view="${view}"]`).classList.add('active');
+        document.querySelector(`[data-view="${view}"]`).classList.remove('text-gray-500');
+
+        // 切换视图显示
+        document.getElementById('view-timeline').classList.add('hidden');
+        document.getElementById('view-category').classList.add('hidden');
+        document.getElementById('view-heat').classList.add('hidden');
+        document.getElementById(`view-${view}`).classList.remove('hidden');
+    }
+</script>
+{% endblock %}
