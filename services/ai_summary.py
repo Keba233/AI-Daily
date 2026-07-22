@@ -11,6 +11,11 @@ from config import (
     SUMMARY_MAX_ITEMS,
     SUMMARY_CACHE_HOURS,
     FEEDS_DIR,
+    DEEPSEEK_API_KEY,
+    DEEPSEEK_API_URL,
+    DEEPSEEK_MODEL,
+    DEEPSEEK_TIMEOUT,
+    DEEPSEEK_MAX_ARTICLES,
     OLLAMA_BASE_URL,
     OLLAMA_MODEL,
     OLLAMA_TIMEOUT,
@@ -65,6 +70,60 @@ category_key可选值：{cat_list}，务必使用英文key。
 }}"""
 
     return prompt
+
+
+def _call_deepseek(prompt):
+    """调用 DeepSeek API 生成摘要"""
+    if not DEEPSEEK_API_KEY:
+        print("[DeepSeek] 未设置 DEEPSEEK_API_KEY 环境变量，跳过")
+        return None
+
+    url = DEEPSEEK_API_URL
+
+    payload = {
+        "model": DEEPSEEK_MODEL,
+        "messages": [
+            {
+                "role": "system",
+                "content": "你是一位专业的AI行业分析师，擅长用简洁精炼的中文概括AI领域动态。你总是返回严格的JSON格式数据，不添加任何多余文字。",
+            },
+            {
+                "role": "user",
+                "content": prompt,
+            },
+        ],
+        "temperature": 0.3,
+        "max_tokens": 8192,
+    }
+
+    try:
+        print(f"[DeepSeek] 正在调用模型 {DEEPSEEK_MODEL} 生成摘要...")
+        headers = {
+            "Content-Type": "application/json",
+            "Authorization": f"Bearer {DEEPSEEK_API_KEY}",
+        }
+        resp = requests.post(url, json=payload, headers=headers, timeout=DEEPSEEK_TIMEOUT)
+        resp.raise_for_status()
+
+        data = resp.json()
+        content = data.get("choices", [{}])[0].get("message", {}).get("content", "")
+
+        if not content:
+            print("[DeepSeek] 模型返回内容为空")
+            return None
+
+        print(f"[DeepSeek] 模型返回成功，内容长度: {len(content)}")
+        return content
+
+    except requests.exceptions.Timeout:
+        print(f"[DeepSeek] 请求超时（{DEEPSEEK_TIMEOUT}秒）")
+        return None
+    except requests.exceptions.ConnectionError:
+        print("[DeepSeek] 无法连接到 DeepSeek API，请检查网络连接")
+        return None
+    except Exception as e:
+        print(f"[DeepSeek] 调用出错: {e}")
+        return None
 
 
 def _call_ollama(prompt):
@@ -293,8 +352,9 @@ def _parse_ollama_response(content, articles):
 
 def generate_summary(articles):
     """
-    调用Ollama本地模型生成AI每日中文总结
-    如果Ollama不可用，降级为规则摘要
+    调用 DeepSeek API（或 Ollama 本地模型）生成 AI 每日中文总结
+    优先级：DeepSeek API > Ollama 本地模型 > 规则摘要
+    如果 Ollama 不可用，降级为规则摘要
     """
     if not articles:
         return _empty_summary()
@@ -302,7 +362,27 @@ def generate_summary(articles):
     # 构建提示词
     prompt = _build_prompt(articles)
 
-    # 调用Ollama
+    # 优先尝试 DeepSeek API
+    if DEEPSEEK_API_KEY:
+        content = _call_deepseek(prompt)
+        if content:
+            parsed = _parse_ollama_response(content, articles)
+            if parsed and parsed.get("items"):
+                overview = parsed["overview"]
+                if not overview or overview in ("暂无概览", "暂无今日AI资讯", ""):
+                    overview = _generate_overview(parsed["items"])
+                result = {
+                    "date": datetime.now().strftime("%Y-%m-%d"),
+                    "generated_at": datetime.now().isoformat(),
+                    "summary_text": overview,
+                    "summary_items": parsed["items"],
+                    "model": DEEPSEEK_MODEL,
+                }
+                _save_summary(result)
+                print(f"[DeepSeek] AI摘要生成成功，共 {len(parsed['items'])} 条")
+                return result
+
+    # 降级：尝试 Ollama 本地模型
     content = _call_ollama(prompt)
 
     if content:
@@ -325,7 +405,7 @@ def generate_summary(articles):
             return result
 
     # 降级：使用规则摘要
-    print("[Ollama] 降级为规则摘要模式...")
+    print("[AI摘要] 降级为规则摘要模式...")
     return _fallback_summary(articles)
 
 

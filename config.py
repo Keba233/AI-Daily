@@ -120,8 +120,16 @@ FEEDS_DIR = "data/feeds"
 SUMMARY_MAX_ITEMS = 25  # 每日摘要最大条目数（从15增加到25，覆盖更多重要新闻）
 SUMMARY_CACHE_HOURS = 6  # 摘要缓存时长（小时）
 
-# Ollama 本地模型配置
+# DeepSeek API 配置（可选，用于云端部署时的AI摘要）
+# 设置环境变量 DEEPSEEK_API_KEY 即可使用
+DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
+DEEPSEEK_API_URL = "https://api.deepseek.com/chat/completions"
+DEEPSEEK_MODEL = "deepseek-chat"  # 也可用 "deepseek-reasoner"
+DEEPSEEK_TIMEOUT = 180  # 生成超时时间（秒）
+DEEPSEEK_MAX_ARTICLES = 80  # 发送给模型的最大文章数
+
+# Ollama 本地模型配置（备用）
 OLLAMA_BASE_URL = "http://localhost:11434"
 OLLAMA_MODEL = "qwen3.5:9b"
 OLLAMA_TIMEOUT = 180  # 生成超时时间（秒，增加以适应更多条目）
-OLLAMA_MAX_ARTICLES = 80  # 发送给模型的最大文章数（增加以覆盖更多源）
+OLLAMA_MAX_ARTICLES = 80  # 发送给模型的最大文章数
